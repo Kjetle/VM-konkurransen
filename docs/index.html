@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="nn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VM 2026 – tippekonkurranse</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <h1 id="page-title">VM 2026 – tippekonkurranse</h1>
+      <p class="subtitle" id="updated-at"></p>
+    </div>
+    <div class="progress" id="progress-box"></div>
+  </header>
+
+  <nav class="tabs" id="main-tabs" aria-label="Hovudnavigasjon">
+    <button class="tab active" data-tab="standing">Standing</button>
+    <button class="tab" data-tab="fasit">Fasit</button>
+  </nav>
+
+  <nav class="tabs participant-tabs" id="participant-tabs" aria-label="Deltakarar"></nav>
+
+  <main id="content"></main>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

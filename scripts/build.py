@@ -396,14 +396,9 @@ def score_bonus_question(qid: str, guess: str, fasit: dict, stats: dict) -> dict
         }
 
     if qid == "worst_defense":
-        actual_team = answer_text or stats.get("worst_defense_team", "")
         conceded = lookup_team_goals_conceded(guess, stats)
         if conceded is None and answer_numeric is not None and teams_match(guess, answer_text):
             conceded = answer_numeric
-        if not actual_team and answer_text:
-            actual_team = answer_text
-        if actual_team and not teams_match(guess, actual_team):
-            return {"points": 0, "status": "feil", "utfall": "Feil lag", "correct": False}
         if conceded is None:
             return {"points": 0, "status": "ventar", "utfall": "Ventar på statistikk", "correct": None}
         points = conceded * SCORING["worst_defense_per_goal"]

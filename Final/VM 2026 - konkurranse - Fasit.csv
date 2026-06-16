@@ -28,26 +28,26 @@ Dato,Gruppe,Heimelag,Bortelag,Stadion,Tips H,Tips B,Tips teikn
 2026-06-19,Group D,USA,Australia,Seattle Stadium,,,
 2026-06-25,Group D,Türkiye,USA,Los Angeles Stadium,,,
 2026-06-25,Group D,Paraguay,Australia,San Francisco Bay Area Stadium,,,
-2026-06-14,Group E,Côte d'Ivoire,Ecuador,Philadelphia Stadium,,,
+2026-06-14,Group E,Côte d'Ivoire,Ecuador,Philadelphia Stadium,1,0,H
 2026-06-14,Group E,Germany,Curaçao,Houston Stadium,7,1,H
 2026-06-20,Group E,Germany,Côte d'Ivoire,Toronto Stadium,,,
 2026-06-20,Group E,Ecuador,Curaçao,Kansas City Stadium,,,
 2026-06-25,Group E,Curaçao,Côte d'Ivoire,Philadelphia Stadium,,,
 2026-06-25,Group E,Ecuador,Germany,New York New Jersey Stadium,,,
-2026-06-14,Group F,Netherlands,Japan,Dallas Stadium,,,
-2026-06-14,Group F,Sweden,Tunisia,Estadio Monterrey,,,
+2026-06-14,Group F,Netherlands,Japan,Dallas Stadium,2,2,U
+2026-06-14,Group F,Sweden,Tunisia,Estadio Monterrey,5,1,H
 2026-06-20,Group F,Netherlands,Sweden,Houston Stadium,,,
 2026-06-20,Group F,Tunisia,Japan,Estadio Monterrey,,,
 2026-06-25,Group F,Japan,Sweden,Dallas Stadium,,,
 2026-06-25,Group F,Tunisia,Netherlands,Kansas City Stadium,,,
-2026-06-15,Group G,IR Iran,New Zealand,Los Angeles Stadium,,,
-2026-06-15,Group G,Belgium,Egypt,Seattle Stadium,,,
+2026-06-15,Group G,IR Iran,New Zealand,Los Angeles Stadium,2,2,U
+2026-06-15,Group G,Belgium,Egypt,Seattle Stadium,1,1,U
 2026-06-21,Group G,Belgium,IR Iran,Los Angeles Stadium,,,
 2026-06-21,Group G,New Zealand,Egypt,BC Place Vancouver,,,
 2026-06-26,Group G,Egypt,IR Iran,Seattle Stadium,,,
 2026-06-26,Group G,New Zealand,Belgium,BC Place Vancouver,,,
-2026-06-15,Group H,Saudi Arabia,Uruguay,Miami Stadium,,,
-2026-06-15,Group H,Spain,Cabo Verde,Atlanta Stadium,,,
+2026-06-15,Group H,Saudi Arabia,Uruguay,Miami Stadium,1,1,U
+2026-06-15,Group H,Spain,Cabo Verde,Atlanta Stadium,0,0,U
 2026-06-21,Group H,Uruguay,Cabo Verde,Miami Stadium,,,
 2026-06-21,Group H,Spain,Saudi Arabia,Atlanta Stadium,,,
 2026-06-26,Group H,Cabo Verde,Saudi Arabia,Houston Stadium,,,
@@ -165,6 +165,8 @@ Kva lag får flest raude kort?,,South Africa,10p for kvart kort,,,,
 Statistikk,,,,,,,
 player_goals,Folarin Balogun,2
 player_goals,Kai Havertz,2
+player_goals,Yasin Ayari,2
+player_goals,Elijah Just,2
 player_goals,Raul Jimenez,1
 player_goals,Julian Quinones,1
 player_goals,Hwang In-beom,1
@@ -175,6 +177,7 @@ player_goals,Cyle Larin,1
 player_goals,Gio Reyna,1
 player_goals,Mauricio,1
 player_goals,Breel Embolo,1
+player_goals,Boualem Khoukhi,1
 player_goals,Ismael Saibari,1
 player_goals,Vinicius Junior,1
 player_goals,John McGinn,1
@@ -186,11 +189,30 @@ player_goals,Jamal Musiala,1
 player_goals,Nathaniel Brown,1
 player_goals,Deniz Undav,1
 player_goals,Livano Comenencia,1
+player_goals,Virgil van Dijk,1
+player_goals,Crysencio Summerville,1
+player_goals,Keito Nakamura,1
+player_goals,Daichi Kamada,1
+player_goals,Amad Diallo,1
+player_goals,Alexander Isak,1
+player_goals,Viktor Gyokeres,1
+player_goals,Mattias Svanberg,1
+player_goals,Omar Rekik,1
+player_goals,Emam Ashour,1
+player_goals,Abdulelah Alamri,1
+player_goals,Maxi Araujo,1
+player_goals,Mohammad Mohebi,1
+player_goals,Ramin Rezaeian,1
 team_goals_scored,Germany,7
+team_goals_scored,Sweden,5
 team_goals_scored,USA,4
 team_goals_scored,Mexico,2
 team_goals_scored,Korea Republic,2
 team_goals_scored,Australia,2
+team_goals_scored,Netherlands,2
+team_goals_scored,Japan,2
+team_goals_scored,IR Iran,2
+team_goals_scored,New Zealand,2
 team_goals_scored,Canada,1
 team_goals_scored,Bosnia and Herzegovina,1
 team_goals_scored,Czechia,1
@@ -201,11 +223,22 @@ team_goals_scored,Brazil,1
 team_goals_scored,Morocco,1
 team_goals_scored,Scotland,1
 team_goals_scored,Curaçao,1
+team_goals_scored,Côte d'Ivoire,1
+team_goals_scored,Tunisia,1
+team_goals_scored,Belgium,1
+team_goals_scored,Egypt,1
+team_goals_scored,Saudi Arabia,1
+team_goals_scored,Uruguay,1
 team_goals_conceded,Curaçao,7
 team_goals_conceded,Paraguay,4
+team_goals_conceded,Tunisia,5
 team_goals_conceded,South Africa,2
 team_goals_conceded,Czechia,2
 team_goals_conceded,Türkiye,2
+team_goals_conceded,Netherlands,2
+team_goals_conceded,Japan,2
+team_goals_conceded,New Zealand,2
+team_goals_conceded,IR Iran,2
 team_goals_conceded,Haiti,1
 team_goals_conceded,Mexico,1
 team_goals_conceded,Korea Republic,1
@@ -218,6 +251,11 @@ team_goals_conceded,Morocco,1
 team_goals_conceded,Scotland,1
 team_goals_conceded,Australia,1
 team_goals_conceded,Germany,1
+team_goals_conceded,Ecuador,1
+team_goals_conceded,Belgium,1
+team_goals_conceded,Egypt,1
+team_goals_conceded,Saudi Arabia,1
+team_goals_conceded,Uruguay,1
 team_red_cards,South Africa,2
 team_red_cards,Mexico,1
 first_red_card,Sphephelo Sithole,

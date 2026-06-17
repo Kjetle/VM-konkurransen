@@ -1,7 +1,7 @@
 window.APP_DATA = {
   "meta": {
     "title": "VM 2026 – tippekonkurranse",
-    "updated": "2026-06-17T06:47:37.298627+00:00",
+    "updated": "2026-06-17T07:45:46.778873+00:00",
     "scoring": {
       "group_outcome": 5,
       "group_exact": 25,
@@ -16,6 +16,580 @@ window.APP_DATA = {
       "worst_defense_per_goal": 5,
       "first_red_card": 40,
       "most_red_cards_per_card": 10
+    },
+    "history": {
+      "matchDays": [
+        "2026-06-11",
+        "2026-06-12",
+        "2026-06-13",
+        "2026-06-14",
+        "2026-06-15",
+        "2026-06-16"
+      ],
+      "participants": {
+        "Anja": {
+          "totals": [
+            25,
+            30,
+            40,
+            55,
+            55,
+            86
+          ],
+          "ranks": [
+            3,
+            6,
+            6,
+            7,
+            9,
+            11
+          ],
+          "dayPoints": [
+            25,
+            5,
+            10,
+            15,
+            0,
+            31
+          ],
+          "exact": 1,
+          "outcomes": 10,
+          "streak": 3,
+          "recentPoints": [
+            {
+              "match": "Iraq – Norway",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Argentina – Algeria",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Austria – Jordan",
+              "points": 5,
+              "label": "Rett utfall"
+            }
+          ]
+        },
+        "Cato": {
+          "totals": [
+            5,
+            35,
+            65,
+            140,
+            140,
+            175
+          ],
+          "ranks": [
+            8,
+            3,
+            2,
+            1,
+            1,
+            2
+          ],
+          "dayPoints": [
+            5,
+            30,
+            30,
+            75,
+            0,
+            35
+          ],
+          "exact": 3,
+          "outcomes": 9,
+          "streak": 3,
+          "recentPoints": [
+            {
+              "match": "France – Senegal",
+              "points": 25,
+              "label": "Rett resultat"
+            },
+            {
+              "match": "Iraq – Norway",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Argentina – Algeria",
+              "points": 5,
+              "label": "Rett utfall"
+            }
+          ]
+        },
+        "Harald": {
+          "totals": [
+            0,
+            5,
+            35,
+            40,
+            40,
+            116
+          ],
+          "ranks": [
+            11,
+            11,
+            8,
+            11,
+            11,
+            6
+          ],
+          "dayPoints": [
+            0,
+            5,
+            30,
+            5,
+            0,
+            76
+          ],
+          "exact": 3,
+          "outcomes": 8,
+          "streak": 4,
+          "recentPoints": [
+            {
+              "match": "France – Senegal",
+              "points": 25,
+              "label": "Rett resultat"
+            },
+            {
+              "match": "Iraq – Norway",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Argentina – Algeria",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Austria – Jordan",
+              "points": 25,
+              "label": "Rett resultat"
+            }
+          ]
+        },
+        "Kathrine": {
+          "totals": [
+            25,
+            30,
+            35,
+            45,
+            70,
+            111
+          ],
+          "ranks": [
+            4,
+            7,
+            9,
+            9,
+            6,
+            7
+          ],
+          "dayPoints": [
+            25,
+            5,
+            5,
+            10,
+            25,
+            41
+          ],
+          "exact": 2,
+          "outcomes": 7,
+          "streak": 2,
+          "recentPoints": [
+            {
+              "match": "Iraq – Norway",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Argentina – Algeria",
+              "points": 5,
+              "label": "Rett utfall"
+            }
+          ]
+        },
+        "Kjartan": {
+          "totals": [
+            0,
+            5,
+            20,
+            35,
+            35,
+            61
+          ],
+          "ranks": [
+            12,
+            12,
+            11,
+            12,
+            12,
+            12
+          ],
+          "dayPoints": [
+            0,
+            5,
+            15,
+            15,
+            0,
+            26
+          ],
+          "exact": 0,
+          "outcomes": 8,
+          "streak": 3,
+          "recentPoints": [
+            {
+              "match": "France – Senegal",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Austria – Jordan",
+              "points": 5,
+              "label": "Rett utfall"
+            }
+          ]
+        },
+        "Kjersti": {
+          "totals": [
+            5,
+            10,
+            15,
+            60,
+            60,
+            95
+          ],
+          "ranks": [
+            9,
+            10,
+            12,
+            6,
+            7,
+            9
+          ],
+          "dayPoints": [
+            5,
+            5,
+            5,
+            45,
+            0,
+            35
+          ],
+          "exact": 1,
+          "outcomes": 8,
+          "streak": 2,
+          "recentPoints": [
+            {
+              "match": "France – Senegal",
+              "points": 25,
+              "label": "Rett resultat"
+            },
+            {
+              "match": "Argentina – Algeria",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Austria – Jordan",
+              "points": 5,
+              "label": "Rett utfall"
+            }
+          ]
+        },
+        "Kjetil": {
+          "totals": [
+            30,
+            30,
+            60,
+            100,
+            130,
+            201
+          ],
+          "ranks": [
+            2,
+            8,
+            4,
+            3,
+            2,
+            1
+          ],
+          "dayPoints": [
+            30,
+            0,
+            30,
+            40,
+            30,
+            71
+          ],
+          "exact": 4,
+          "outcomes": 11,
+          "streak": 4,
+          "recentPoints": [
+            {
+              "match": "France – Senegal",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Iraq – Norway",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Argentina – Algeria",
+              "points": 25,
+              "label": "Rett resultat"
+            },
+            {
+              "match": "Austria – Jordan",
+              "points": 5,
+              "label": "Rett utfall"
+            }
+          ]
+        },
+        "Ludvik": {
+          "totals": [
+            5,
+            35,
+            40,
+            75,
+            80,
+            131
+          ],
+          "ranks": [
+            10,
+            4,
+            7,
+            4,
+            4,
+            4
+          ],
+          "dayPoints": [
+            5,
+            30,
+            5,
+            35,
+            5,
+            51
+          ],
+          "exact": 2,
+          "outcomes": 11,
+          "streak": 3,
+          "recentPoints": [
+            {
+              "match": "France – Senegal",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Iraq – Norway",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Austria – Jordan",
+              "points": 5,
+              "label": "Rett utfall"
+            }
+          ]
+        },
+        "Mikkel": {
+          "totals": [
+            10,
+            40,
+            45,
+            50,
+            60,
+            106
+          ],
+          "ranks": [
+            6,
+            2,
+            5,
+            8,
+            8,
+            8
+          ],
+          "dayPoints": [
+            10,
+            30,
+            5,
+            5,
+            10,
+            46
+          ],
+          "exact": 1,
+          "outcomes": 10,
+          "streak": 3,
+          "recentPoints": [
+            {
+              "match": "France – Senegal",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Argentina – Algeria",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Austria – Jordan",
+              "points": 5,
+              "label": "Rett utfall"
+            }
+          ]
+        },
+        "Olai": {
+          "totals": [
+            25,
+            30,
+            35,
+            45,
+            50,
+            126
+          ],
+          "ranks": [
+            5,
+            9,
+            10,
+            10,
+            10,
+            5
+          ],
+          "dayPoints": [
+            25,
+            5,
+            5,
+            10,
+            5,
+            76
+          ],
+          "exact": 3,
+          "outcomes": 10,
+          "streak": 4,
+          "recentPoints": [
+            {
+              "match": "France – Senegal",
+              "points": 25,
+              "label": "Rett resultat"
+            },
+            {
+              "match": "Iraq – Norway",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Argentina – Algeria",
+              "points": 25,
+              "label": "Rett resultat"
+            },
+            {
+              "match": "Austria – Jordan",
+              "points": 5,
+              "label": "Rett utfall"
+            }
+          ]
+        },
+        "Tobias": {
+          "totals": [
+            65,
+            95,
+            105,
+            110,
+            115,
+            135
+          ],
+          "ranks": [
+            1,
+            1,
+            1,
+            2,
+            3,
+            3
+          ],
+          "dayPoints": [
+            65,
+            30,
+            10,
+            5,
+            5,
+            20
+          ],
+          "exact": 2,
+          "outcomes": 10,
+          "streak": 4,
+          "recentPoints": [
+            {
+              "match": "France – Senegal",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Iraq – Norway",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Argentina – Algeria",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Austria – Jordan",
+              "points": 5,
+              "label": "Rett utfall"
+            }
+          ]
+        },
+        "Ville": {
+          "totals": [
+            10,
+            35,
+            65,
+            70,
+            75,
+            90
+          ],
+          "ranks": [
+            7,
+            5,
+            3,
+            5,
+            5,
+            10
+          ],
+          "dayPoints": [
+            10,
+            25,
+            30,
+            5,
+            5,
+            15
+          ],
+          "exact": 2,
+          "outcomes": 9,
+          "streak": 3,
+          "recentPoints": [
+            {
+              "match": "France – Senegal",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Iraq – Norway",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "Argentina – Algeria",
+              "points": 5,
+              "label": "Rett utfall"
+            }
+          ]
+        }
+      }
     }
   },
   "fasit": {

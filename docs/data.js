@@ -1,7 +1,7 @@
 window.APP_DATA = {
   "meta": {
     "title": "VM 2026 – tippekonkurranse",
-    "updated": "2026-06-17T07:45:46.778873+00:00",
+    "updated": "2026-06-18T12:25:32.720308+00:00",
     "scoring": {
       "group_outcome": 5,
       "group_exact": 25,
@@ -24,7 +24,8 @@ window.APP_DATA = {
         "2026-06-13",
         "2026-06-14",
         "2026-06-15",
-        "2026-06-16"
+        "2026-06-16",
+        "2026-06-17"
       ],
       "participants": {
         "Anja": {
@@ -34,7 +35,8 @@ window.APP_DATA = {
             40,
             55,
             55,
-            86
+            70,
+            101
           ],
           "ranks": [
             3,
@@ -42,7 +44,8 @@ window.APP_DATA = {
             6,
             7,
             9,
-            11
+            11,
+            10
           ],
           "dayPoints": [
             25,
@@ -50,24 +53,25 @@ window.APP_DATA = {
             10,
             15,
             0,
+            15,
             31
           ],
           "exact": 1,
-          "outcomes": 10,
-          "streak": 3,
+          "outcomes": 13,
+          "streak": 6,
           "recentPoints": [
             {
-              "match": "Iraq – Norway",
+              "match": "Portugal – Congo DR",
               "points": 5,
               "label": "Rett utfall"
             },
             {
-              "match": "Argentina – Algeria",
+              "match": "Uzbekistan – Colombia",
               "points": 5,
               "label": "Rett utfall"
             },
             {
-              "match": "Austria – Jordan",
+              "match": "Ghana – Panama",
               "points": 5,
               "label": "Rett utfall"
             }
@@ -80,7 +84,8 @@ window.APP_DATA = {
             65,
             140,
             140,
-            175
+            175,
+            196
           ],
           "ranks": [
             8,
@@ -88,6 +93,7 @@ window.APP_DATA = {
             2,
             1,
             1,
+            2,
             2
           ],
           "dayPoints": [
@@ -96,24 +102,15 @@ window.APP_DATA = {
             30,
             75,
             0,
-            35
+            35,
+            21
           ],
           "exact": 3,
-          "outcomes": 9,
+          "outcomes": 10,
           "streak": 3,
           "recentPoints": [
             {
-              "match": "France – Senegal",
-              "points": 25,
-              "label": "Rett resultat"
-            },
-            {
-              "match": "Iraq – Norway",
-              "points": 5,
-              "label": "Rett utfall"
-            },
-            {
-              "match": "Argentina – Algeria",
+              "match": "Uzbekistan – Colombia",
               "points": 5,
               "label": "Rett utfall"
             }
@@ -126,7 +123,8 @@ window.APP_DATA = {
             35,
             40,
             40,
-            116
+            100,
+            121
           ],
           "ranks": [
             11,
@@ -134,7 +132,8 @@ window.APP_DATA = {
             8,
             11,
             11,
-            6
+            6,
+            7
           ],
           "dayPoints": [
             0,
@@ -142,31 +141,17 @@ window.APP_DATA = {
             30,
             5,
             0,
-            76
+            60,
+            21
           ],
           "exact": 3,
-          "outcomes": 8,
+          "outcomes": 9,
           "streak": 4,
           "recentPoints": [
             {
-              "match": "France – Senegal",
-              "points": 25,
-              "label": "Rett resultat"
-            },
-            {
-              "match": "Iraq – Norway",
+              "match": "Uzbekistan – Colombia",
               "points": 5,
               "label": "Rett utfall"
-            },
-            {
-              "match": "Argentina – Algeria",
-              "points": 5,
-              "label": "Rett utfall"
-            },
-            {
-              "match": "Austria – Jordan",
-              "points": 25,
-              "label": "Rett resultat"
             }
           ]
         },
@@ -177,7 +162,8 @@ window.APP_DATA = {
             35,
             45,
             70,
-            111
+            95,
+            121
           ],
           "ranks": [
             4,
@@ -185,7 +171,8 @@ window.APP_DATA = {
             9,
             9,
             6,
-            7
+            7,
+            8
           ],
           "dayPoints": [
             25,
@@ -193,19 +180,20 @@ window.APP_DATA = {
             5,
             10,
             25,
-            41
+            25,
+            26
           ],
           "exact": 2,
-          "outcomes": 7,
+          "outcomes": 9,
           "streak": 2,
           "recentPoints": [
             {
-              "match": "Iraq – Norway",
+              "match": "Uzbekistan – Colombia",
               "points": 5,
               "label": "Rett utfall"
             },
             {
-              "match": "Argentina – Algeria",
+              "match": "Ghana – Panama",
               "points": 5,
               "label": "Rett utfall"
             }
@@ -218,12 +206,14 @@ window.APP_DATA = {
             20,
             35,
             35,
-            61
+            45,
+            76
           ],
           "ranks": [
             12,
             12,
             11,
+            12,
             12,
             12,
             12
@@ -234,19 +224,20 @@ window.APP_DATA = {
             15,
             15,
             0,
-            26
+            10,
+            31
           ],
           "exact": 0,
-          "outcomes": 8,
+          "outcomes": 10,
           "streak": 3,
           "recentPoints": [
             {
-              "match": "France – Senegal",
+              "match": "Uzbekistan – Colombia",
               "points": 5,
               "label": "Rett utfall"
             },
             {
-              "match": "Austria – Jordan",
+              "match": "Ghana – Panama",
               "points": 5,
               "label": "Rett utfall"
             }
@@ -259,7 +250,8 @@ window.APP_DATA = {
             15,
             60,
             60,
-            95
+            95,
+            126
           ],
           "ranks": [
             9,
@@ -267,7 +259,8 @@ window.APP_DATA = {
             12,
             6,
             7,
-            9
+            8,
+            6
           ],
           "dayPoints": [
             5,
@@ -275,24 +268,25 @@ window.APP_DATA = {
             5,
             45,
             0,
-            35
+            35,
+            31
           ],
           "exact": 1,
-          "outcomes": 8,
-          "streak": 2,
+          "outcomes": 11,
+          "streak": 3,
           "recentPoints": [
             {
-              "match": "France – Senegal",
-              "points": 25,
-              "label": "Rett resultat"
-            },
-            {
-              "match": "Argentina – Algeria",
+              "match": "Uzbekistan – Colombia",
               "points": 5,
               "label": "Rett utfall"
             },
             {
-              "match": "Austria – Jordan",
+              "match": "Ghana – Panama",
+              "points": 5,
+              "label": "Rett utfall"
+            },
+            {
+              "match": "England – Croatia",
               "points": 5,
               "label": "Rett utfall"
             }
@@ -305,7 +299,8 @@ window.APP_DATA = {
             60,
             100,
             130,
-            201
+            185,
+            211
           ],
           "ranks": [
             2,
@@ -313,6 +308,7 @@ window.APP_DATA = {
             4,
             3,
             2,
+            1,
             1
           ],
           "dayPoints": [
@@ -321,29 +317,20 @@ window.APP_DATA = {
             30,
             40,
             30,
-            71
+            55,
+            26
           ],
           "exact": 4,
-          "outcomes": 11,
+          "outcomes": 13,
           "streak": 4,
           "recentPoints": [
             {
-              "match": "France – Senegal",
+              "match": "Uzbekistan – Colombia",
               "points": 5,
               "label": "Rett utfall"
             },
             {
-              "match": "Iraq – Norway",
-              "points": 5,
-              "label": "Rett utfall"
-            },
-            {
-              "match": "Argentina – Algeria",
-              "points": 25,
-              "label": "Rett resultat"
-            },
-            {
-              "match": "Austria – Jordan",
+              "match": "Ghana – Panama",
               "points": 5,
               "label": "Rett utfall"
             }
@@ -356,12 +343,14 @@ window.APP_DATA = {
             40,
             75,
             80,
-            131
+            115,
+            136
           ],
           "ranks": [
             10,
             4,
             7,
+            4,
             4,
             4,
             4
@@ -372,24 +361,15 @@ window.APP_DATA = {
             5,
             35,
             5,
-            51
+            35,
+            21
           ],
           "exact": 2,
-          "outcomes": 11,
+          "outcomes": 12,
           "streak": 3,
           "recentPoints": [
             {
-              "match": "France – Senegal",
-              "points": 5,
-              "label": "Rett utfall"
-            },
-            {
-              "match": "Iraq – Norway",
-              "points": 5,
-              "label": "Rett utfall"
-            },
-            {
-              "match": "Austria – Jordan",
+              "match": "England – Croatia",
               "points": 5,
               "label": "Rett utfall"
             }
@@ -402,7 +382,8 @@ window.APP_DATA = {
             45,
             50,
             60,
-            106
+            90,
+            116
           ],
           "ranks": [
             6,
@@ -410,7 +391,8 @@ window.APP_DATA = {
             5,
             8,
             8,
-            8
+            9,
+            9
           ],
           "dayPoints": [
             10,
@@ -418,24 +400,20 @@ window.APP_DATA = {
             5,
             5,
             10,
-            46
+            30,
+            26
           ],
           "exact": 1,
-          "outcomes": 10,
+          "outcomes": 12,
           "streak": 3,
           "recentPoints": [
             {
-              "match": "France – Senegal",
+              "match": "Uzbekistan – Colombia",
               "points": 5,
               "label": "Rett utfall"
             },
             {
-              "match": "Argentina – Algeria",
-              "points": 5,
-              "label": "Rett utfall"
-            },
-            {
-              "match": "Austria – Jordan",
+              "match": "England – Croatia",
               "points": 5,
               "label": "Rett utfall"
             }
@@ -448,7 +426,8 @@ window.APP_DATA = {
             35,
             45,
             50,
-            126
+            110,
+            131
           ],
           "ranks": [
             5,
@@ -456,6 +435,7 @@ window.APP_DATA = {
             10,
             10,
             10,
+            5,
             5
           ],
           "dayPoints": [
@@ -464,29 +444,15 @@ window.APP_DATA = {
             5,
             10,
             5,
-            76
+            60,
+            21
           ],
           "exact": 3,
-          "outcomes": 10,
+          "outcomes": 11,
           "streak": 4,
           "recentPoints": [
             {
-              "match": "France – Senegal",
-              "points": 25,
-              "label": "Rett resultat"
-            },
-            {
-              "match": "Iraq – Norway",
-              "points": 5,
-              "label": "Rett utfall"
-            },
-            {
-              "match": "Argentina – Algeria",
-              "points": 25,
-              "label": "Rett resultat"
-            },
-            {
-              "match": "Austria – Jordan",
+              "match": "Uzbekistan – Colombia",
               "points": 5,
               "label": "Rett utfall"
             }
@@ -499,13 +465,15 @@ window.APP_DATA = {
             105,
             110,
             115,
-            135
+            135,
+            176
           ],
           "ranks": [
             1,
             1,
             1,
             2,
+            3,
             3,
             3
           ],
@@ -515,31 +483,17 @@ window.APP_DATA = {
             10,
             5,
             5,
-            20
+            20,
+            41
           ],
-          "exact": 2,
-          "outcomes": 10,
+          "exact": 3,
+          "outcomes": 11,
           "streak": 4,
           "recentPoints": [
             {
-              "match": "France – Senegal",
-              "points": 5,
-              "label": "Rett utfall"
-            },
-            {
-              "match": "Iraq – Norway",
-              "points": 5,
-              "label": "Rett utfall"
-            },
-            {
-              "match": "Argentina – Algeria",
-              "points": 5,
-              "label": "Rett utfall"
-            },
-            {
-              "match": "Austria – Jordan",
-              "points": 5,
-              "label": "Rett utfall"
+              "match": "Uzbekistan – Colombia",
+              "points": 25,
+              "label": "Rett resultat"
             }
           ]
         },
@@ -550,7 +504,8 @@ window.APP_DATA = {
             65,
             70,
             75,
-            90
+            90,
+            100
           ],
           "ranks": [
             7,
@@ -558,7 +513,8 @@ window.APP_DATA = {
             3,
             5,
             5,
-            10
+            10,
+            11
           ],
           "dayPoints": [
             10,
@@ -566,24 +522,20 @@ window.APP_DATA = {
             30,
             5,
             5,
-            15
+            15,
+            10
           ],
           "exact": 2,
-          "outcomes": 9,
+          "outcomes": 11,
           "streak": 3,
           "recentPoints": [
             {
-              "match": "France – Senegal",
+              "match": "Uzbekistan – Colombia",
               "points": 5,
               "label": "Rett utfall"
             },
             {
-              "match": "Iraq – Norway",
-              "points": 5,
-              "label": "Rett utfall"
-            },
-            {
-              "match": "Argentina – Algeria",
+              "match": "England – Croatia",
               "points": 5,
               "label": "Rett utfall"
             }
@@ -1018,15 +970,15 @@ window.APP_DATA = {
         "date": "2026-06-17",
         "group": "Group K",
         "match": "Portugal – Congo DR",
-        "result": "—",
-        "played": false
+        "result": "1-1 (U)",
+        "played": true
       },
       {
         "date": "2026-06-17",
         "group": "Group K",
         "match": "Uzbekistan – Colombia",
-        "result": "—",
-        "played": false
+        "result": "1-3 (B)",
+        "played": true
       },
       {
         "date": "2026-06-23",
@@ -1060,15 +1012,15 @@ window.APP_DATA = {
         "date": "2026-06-17",
         "group": "Group L",
         "match": "Ghana – Panama",
-        "result": "—",
-        "played": false
+        "result": "1-0 (H)",
+        "played": true
       },
       {
         "date": "2026-06-17",
         "group": "Group L",
         "match": "England – Croatia",
-        "result": "—",
-        "played": false
+        "result": "4-2 (H)",
+        "played": true
       },
       {
         "date": "2026-06-23",
@@ -1432,11 +1384,11 @@ window.APP_DATA = {
     {
       "name": "Kjetil",
       "scores": {
-        "group": 135,
+        "group": 145,
         "knockout": 0,
         "bonus": 66,
-        "total": 201,
-        "groupPlayed": 20,
+        "total": 211,
+        "groupPlayed": 24,
         "groupTotal": 72
       },
       "groupMatches": [
@@ -2166,11 +2118,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Portugal – Congo DR",
           "guess": "2-0 (H)",
-          "answer": "—",
+          "answer": "1-1 (U)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|Uzbekistan|Colombia",
@@ -2178,11 +2130,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Uzbekistan – Colombia",
           "guess": "0-2 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "1-3 (B)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-23|Portugal|Uzbekistan",
@@ -2238,11 +2190,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "Ghana – Panama",
           "guess": "2-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "1-0 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-17|England|Croatia",
@@ -2250,11 +2202,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "England – Croatia",
           "guess": "0-0 (U)",
-          "answer": "—",
+          "answer": "4-2 (H)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-23|England|Ghana",
@@ -3056,11 +3008,11 @@ window.APP_DATA = {
     {
       "name": "Cato",
       "scores": {
-        "group": 105,
+        "group": 110,
         "knockout": 0,
-        "bonus": 70,
-        "total": 175,
-        "groupPlayed": 20,
+        "bonus": 86,
+        "total": 196,
+        "groupPlayed": 24,
         "groupTotal": 72
       },
       "groupMatches": [
@@ -3790,11 +3742,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Portugal – Congo DR",
           "guess": "3-0 (H)",
-          "answer": "—",
+          "answer": "1-1 (U)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|Uzbekistan|Colombia",
@@ -3802,11 +3754,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Uzbekistan – Colombia",
           "guess": "1-7 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "1-3 (B)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-23|Portugal|Uzbekistan",
@@ -3862,11 +3814,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "Ghana – Panama",
           "guess": "2-2 (U)",
-          "answer": "—",
+          "answer": "1-0 (H)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|England|Croatia",
@@ -3874,11 +3826,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "England – Croatia",
           "guess": "1-1 (U)",
-          "answer": "—",
+          "answer": "4-2 (H)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-23|England|Ghana",
@@ -4630,10 +4582,10 @@ window.APP_DATA = {
           "question": "TOPPSCORAR",
           "guess": "Kane",
           "answer": "Lionel Messi",
-          "points": 0,
-          "status": "feil",
-          "utfall": "0 mål × 8p",
-          "correct": false
+          "points": 16,
+          "status": "rett",
+          "utfall": "2 mål × 8p",
+          "correct": true
         },
         {
           "id": "top_scoring_team",
@@ -4680,11 +4632,11 @@ window.APP_DATA = {
     {
       "name": "Tobias",
       "scores": {
-        "group": 90,
+        "group": 115,
         "knockout": 0,
-        "bonus": 45,
-        "total": 135,
-        "groupPlayed": 20,
+        "bonus": 61,
+        "total": 176,
+        "groupPlayed": 24,
         "groupTotal": 72
       },
       "groupMatches": [
@@ -5414,11 +5366,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Portugal – Congo DR",
           "guess": "3-0 (H)",
-          "answer": "—",
+          "answer": "1-1 (U)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|Uzbekistan|Colombia",
@@ -5426,11 +5378,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Uzbekistan – Colombia",
           "guess": "1-3 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "1-3 (B)",
+          "points": 25,
+          "status": "rett",
+          "utfall": "Rett resultat",
+          "correct": true
         },
         {
           "id": "2026-06-23|Portugal|Uzbekistan",
@@ -5486,11 +5438,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "Ghana – Panama",
           "guess": "0-3 (B)",
-          "answer": "—",
+          "answer": "1-0 (H)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|England|Croatia",
@@ -5498,11 +5450,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "England – Croatia",
           "guess": "2-2 (U)",
-          "answer": "—",
+          "answer": "4-2 (H)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-23|England|Ghana",
@@ -6254,10 +6206,10 @@ window.APP_DATA = {
           "question": "TOPPSCORAR",
           "guess": "kane",
           "answer": "Lionel Messi",
-          "points": 0,
-          "status": "feil",
-          "utfall": "0 mål × 8p",
-          "correct": false
+          "points": 16,
+          "status": "rett",
+          "utfall": "2 mål × 8p",
+          "correct": true
         },
         {
           "id": "top_scoring_team",
@@ -6304,11 +6256,11 @@ window.APP_DATA = {
     {
       "name": "Ludvik",
       "scores": {
-        "group": 95,
+        "group": 100,
         "knockout": 0,
         "bonus": 36,
-        "total": 131,
-        "groupPlayed": 20,
+        "total": 136,
+        "groupPlayed": 24,
         "groupTotal": 72
       },
       "groupMatches": [
@@ -7038,11 +6990,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Portugal – Congo DR",
           "guess": "7-0 (H)",
-          "answer": "—",
+          "answer": "1-1 (U)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|Uzbekistan|Colombia",
@@ -7050,11 +7002,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Uzbekistan – Colombia",
           "guess": "2-1 (H)",
-          "answer": "—",
+          "answer": "1-3 (B)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-23|Portugal|Uzbekistan",
@@ -7110,11 +7062,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "Ghana – Panama",
           "guess": "1-2 (B)",
-          "answer": "—",
+          "answer": "1-0 (H)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|England|Croatia",
@@ -7122,11 +7074,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "England – Croatia",
           "guess": "2-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "4-2 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-23|England|Ghana",
@@ -7928,11 +7880,11 @@ window.APP_DATA = {
     {
       "name": "Olai",
       "scores": {
-        "group": 110,
+        "group": 115,
         "knockout": 0,
         "bonus": 16,
-        "total": 126,
-        "groupPlayed": 20,
+        "total": 131,
+        "groupPlayed": 24,
         "groupTotal": 72
       },
       "groupMatches": [
@@ -8662,11 +8614,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Portugal – Congo DR",
           "guess": "2-0 (H)",
-          "answer": "—",
+          "answer": "1-1 (U)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|Uzbekistan|Colombia",
@@ -8674,11 +8626,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Uzbekistan – Colombia",
           "guess": "0-1 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "1-3 (B)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-23|Portugal|Uzbekistan",
@@ -8734,11 +8686,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "Ghana – Panama",
           "guess": "1-1 (U)",
-          "answer": "—",
+          "answer": "1-0 (H)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|England|Croatia",
@@ -8746,11 +8698,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "England – Croatia",
           "guess": "2-3 (B)",
-          "answer": "—",
+          "answer": "4-2 (H)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-23|England|Ghana",
@@ -9550,13 +9502,1637 @@ window.APP_DATA = {
       ]
     },
     {
+      "name": "Kjersti",
+      "scores": {
+        "group": 75,
+        "knockout": 0,
+        "bonus": 51,
+        "total": 126,
+        "groupPlayed": 24,
+        "groupTotal": 72
+      },
+      "groupMatches": [
+        {
+          "id": "2026-06-11|Mexico|South Africa",
+          "date": "2026-06-11",
+          "group": "Group A",
+          "match": "Mexico – South Africa",
+          "guess": "4-1 (H)",
+          "answer": "2-0 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-11|Korea Republic|Czechia",
+          "date": "2026-06-11",
+          "group": "Group A",
+          "match": "Korea Republic – Czechia",
+          "guess": "2-5 (B)",
+          "answer": "2-1 (H)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-18|Czechia|South Africa",
+          "date": "2026-06-18",
+          "group": "Group A",
+          "match": "Czechia – South Africa",
+          "guess": "2-3 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-18|Mexico|Korea Republic",
+          "date": "2026-06-18",
+          "group": "Group A",
+          "match": "Mexico – Korea Republic",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-24|Czechia|Mexico",
+          "date": "2026-06-24",
+          "group": "Group A",
+          "match": "Czechia – Mexico",
+          "guess": "2-3 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-24|South Africa|Korea Republic",
+          "date": "2026-06-24",
+          "group": "Group A",
+          "match": "South Africa – Korea Republic",
+          "guess": "1-1 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-12|Canada|Bosnia and Herzegovina",
+          "date": "2026-06-12",
+          "group": "Group B",
+          "match": "Canada – Bosnia and Herzegovina",
+          "guess": "1-2 (B)",
+          "answer": "1-1 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-13|Qatar|Switzerland",
+          "date": "2026-06-13",
+          "group": "Group B",
+          "match": "Qatar – Switzerland",
+          "guess": "1-4 (B)",
+          "answer": "1-1 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-18|Switzerland|Bosnia and Herzegovina",
+          "date": "2026-06-18",
+          "group": "Group B",
+          "match": "Switzerland – Bosnia and Herzegovina",
+          "guess": "2-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-18|Canada|Qatar",
+          "date": "2026-06-18",
+          "group": "Group B",
+          "match": "Canada – Qatar",
+          "guess": "2-0 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-24|Switzerland|Canada",
+          "date": "2026-06-24",
+          "group": "Group B",
+          "match": "Switzerland – Canada",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-24|Bosnia and Herzegovina|Qatar",
+          "date": "2026-06-24",
+          "group": "Group B",
+          "match": "Bosnia and Herzegovina – Qatar",
+          "guess": "1-3 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-13|Haiti|Scotland",
+          "date": "2026-06-13",
+          "group": "Group C",
+          "match": "Haiti – Scotland",
+          "guess": "1-5 (B)",
+          "answer": "0-1 (B)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-13|Brazil|Morocco",
+          "date": "2026-06-13",
+          "group": "Group C",
+          "match": "Brazil – Morocco",
+          "guess": "5-2 (H)",
+          "answer": "1-1 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-19|Brazil|Haiti",
+          "date": "2026-06-19",
+          "group": "Group C",
+          "match": "Brazil – Haiti",
+          "guess": "5-0 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-19|Scotland|Morocco",
+          "date": "2026-06-19",
+          "group": "Group C",
+          "match": "Scotland – Morocco",
+          "guess": "3-2 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-24|Scotland|Brazil",
+          "date": "2026-06-24",
+          "group": "Group C",
+          "match": "Scotland – Brazil",
+          "guess": "2-0 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-24|Morocco|Haiti",
+          "date": "2026-06-24",
+          "group": "Group C",
+          "match": "Morocco – Haiti",
+          "guess": "2-0 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-12|USA|Paraguay",
+          "date": "2026-06-12",
+          "group": "Group D",
+          "match": "USA – Paraguay",
+          "guess": "3-1 (H)",
+          "answer": "4-1 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-13|Australia|Türkiye",
+          "date": "2026-06-13",
+          "group": "Group D",
+          "match": "Australia – Türkiye",
+          "guess": "1-1 (U)",
+          "answer": "2-0 (H)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-19|Türkiye|Paraguay",
+          "date": "2026-06-19",
+          "group": "Group D",
+          "match": "Türkiye – Paraguay",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-19|USA|Australia",
+          "date": "2026-06-19",
+          "group": "Group D",
+          "match": "USA – Australia",
+          "guess": "2-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-25|Türkiye|USA",
+          "date": "2026-06-25",
+          "group": "Group D",
+          "match": "Türkiye – USA",
+          "guess": "2-2 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-25|Paraguay|Australia",
+          "date": "2026-06-25",
+          "group": "Group D",
+          "match": "Paraguay – Australia",
+          "guess": "3-2 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-14|Côte d'Ivoire|Ecuador",
+          "date": "2026-06-14",
+          "group": "Group E",
+          "match": "Côte d'Ivoire – Ecuador",
+          "guess": "0-5 (B)",
+          "answer": "1-0 (H)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-14|Germany|Curaçao",
+          "date": "2026-06-14",
+          "group": "Group E",
+          "match": "Germany – Curaçao",
+          "guess": "3-0 (H)",
+          "answer": "7-1 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-20|Germany|Côte d'Ivoire",
+          "date": "2026-06-20",
+          "group": "Group E",
+          "match": "Germany – Côte d'Ivoire",
+          "guess": "4-2 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-20|Ecuador|Curaçao",
+          "date": "2026-06-20",
+          "group": "Group E",
+          "match": "Ecuador – Curaçao",
+          "guess": "4-0 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-25|Curaçao|Côte d'Ivoire",
+          "date": "2026-06-25",
+          "group": "Group E",
+          "match": "Curaçao – Côte d'Ivoire",
+          "guess": "2-2 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-25|Ecuador|Germany",
+          "date": "2026-06-25",
+          "group": "Group E",
+          "match": "Ecuador – Germany",
+          "guess": "3-4 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-14|Netherlands|Japan",
+          "date": "2026-06-14",
+          "group": "Group F",
+          "match": "Netherlands – Japan",
+          "guess": "1-2 (B)",
+          "answer": "2-2 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-14|Sweden|Tunisia",
+          "date": "2026-06-14",
+          "group": "Group F",
+          "match": "Sweden – Tunisia",
+          "guess": "2-1 (H)",
+          "answer": "5-1 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-20|Netherlands|Sweden",
+          "date": "2026-06-20",
+          "group": "Group F",
+          "match": "Netherlands – Sweden",
+          "guess": "1-1 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-20|Tunisia|Japan",
+          "date": "2026-06-20",
+          "group": "Group F",
+          "match": "Tunisia – Japan",
+          "guess": "2-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-25|Japan|Sweden",
+          "date": "2026-06-25",
+          "group": "Group F",
+          "match": "Japan – Sweden",
+          "guess": "2-2 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-25|Tunisia|Netherlands",
+          "date": "2026-06-25",
+          "group": "Group F",
+          "match": "Tunisia – Netherlands",
+          "guess": "1-2 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-15|IR Iran|New Zealand",
+          "date": "2026-06-15",
+          "group": "Group G",
+          "match": "IR Iran – New Zealand",
+          "guess": "2-1 (H)",
+          "answer": "2-2 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-15|Belgium|Egypt",
+          "date": "2026-06-15",
+          "group": "Group G",
+          "match": "Belgium – Egypt",
+          "guess": "3-1 (H)",
+          "answer": "1-1 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-21|Belgium|IR Iran",
+          "date": "2026-06-21",
+          "group": "Group G",
+          "match": "Belgium – IR Iran",
+          "guess": "3-2 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-21|New Zealand|Egypt",
+          "date": "2026-06-21",
+          "group": "Group G",
+          "match": "New Zealand – Egypt",
+          "guess": "1-2 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-26|Egypt|IR Iran",
+          "date": "2026-06-26",
+          "group": "Group G",
+          "match": "Egypt – IR Iran",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-26|New Zealand|Belgium",
+          "date": "2026-06-26",
+          "group": "Group G",
+          "match": "New Zealand – Belgium",
+          "guess": "1-2 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-15|Saudi Arabia|Uruguay",
+          "date": "2026-06-15",
+          "group": "Group H",
+          "match": "Saudi Arabia – Uruguay",
+          "guess": "1-3 (B)",
+          "answer": "1-1 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-15|Spain|Cabo Verde",
+          "date": "2026-06-15",
+          "group": "Group H",
+          "match": "Spain – Cabo Verde",
+          "guess": "3-0 (H)",
+          "answer": "0-0 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-21|Uruguay|Cabo Verde",
+          "date": "2026-06-21",
+          "group": "Group H",
+          "match": "Uruguay – Cabo Verde",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-21|Spain|Saudi Arabia",
+          "date": "2026-06-21",
+          "group": "Group H",
+          "match": "Spain – Saudi Arabia",
+          "guess": "4-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-26|Cabo Verde|Saudi Arabia",
+          "date": "2026-06-26",
+          "group": "Group H",
+          "match": "Cabo Verde – Saudi Arabia",
+          "guess": "2-2 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-26|Uruguay|Spain",
+          "date": "2026-06-26",
+          "group": "Group H",
+          "match": "Uruguay – Spain",
+          "guess": "2-3 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-16|France|Senegal",
+          "date": "2026-06-16",
+          "group": "Group I",
+          "match": "France – Senegal",
+          "guess": "3-1 (H)",
+          "answer": "3-1 (H)",
+          "points": 25,
+          "status": "rett",
+          "utfall": "Rett resultat",
+          "correct": true
+        },
+        {
+          "id": "2026-06-16|Iraq|Norway",
+          "date": "2026-06-16",
+          "group": "Group I",
+          "match": "Iraq – Norway",
+          "guess": "2-1 (H)",
+          "answer": "1-4 (B)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-22|Norway|Senegal",
+          "date": "2026-06-22",
+          "group": "Group I",
+          "match": "Norway – Senegal",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-22|France|Iraq",
+          "date": "2026-06-22",
+          "group": "Group I",
+          "match": "France – Iraq",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-26|Norway|France",
+          "date": "2026-06-26",
+          "group": "Group I",
+          "match": "Norway – France",
+          "guess": "2-2 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-26|Senegal|Iraq",
+          "date": "2026-06-26",
+          "group": "Group I",
+          "match": "Senegal – Iraq",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-16|Argentina|Algeria",
+          "date": "2026-06-16",
+          "group": "Group J",
+          "match": "Argentina – Algeria",
+          "guess": "2-1 (H)",
+          "answer": "3-0 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-16|Austria|Jordan",
+          "date": "2026-06-16",
+          "group": "Group J",
+          "match": "Austria – Jordan",
+          "guess": "2-0 (H)",
+          "answer": "3-1 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-22|Argentina|Austria",
+          "date": "2026-06-22",
+          "group": "Group J",
+          "match": "Argentina – Austria",
+          "guess": "2-3 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-22|Jordan|Algeria",
+          "date": "2026-06-22",
+          "group": "Group J",
+          "match": "Jordan – Algeria",
+          "guess": "1-1 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-27|Algeria|Austria",
+          "date": "2026-06-27",
+          "group": "Group J",
+          "match": "Algeria – Austria",
+          "guess": "1-2 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-27|Jordan|Argentina",
+          "date": "2026-06-27",
+          "group": "Group J",
+          "match": "Jordan – Argentina",
+          "guess": "1-3 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-17|Portugal|Congo DR",
+          "date": "2026-06-17",
+          "group": "Group K",
+          "match": "Portugal – Congo DR",
+          "guess": "3-0 (H)",
+          "answer": "1-1 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-17|Uzbekistan|Colombia",
+          "date": "2026-06-17",
+          "group": "Group K",
+          "match": "Uzbekistan – Colombia",
+          "guess": "1-2 (B)",
+          "answer": "1-3 (B)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-23|Portugal|Uzbekistan",
+          "date": "2026-06-23",
+          "group": "Group K",
+          "match": "Portugal – Uzbekistan",
+          "guess": "2-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-23|Colombia|Congo DR",
+          "date": "2026-06-23",
+          "group": "Group K",
+          "match": "Colombia – Congo DR",
+          "guess": "2-2 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-27|Colombia|Portugal",
+          "date": "2026-06-27",
+          "group": "Group K",
+          "match": "Colombia – Portugal",
+          "guess": "1-3 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-27|Congo DR|Uzbekistan",
+          "date": "2026-06-27",
+          "group": "Group K",
+          "match": "Congo DR – Uzbekistan",
+          "guess": "2-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-17|Ghana|Panama",
+          "date": "2026-06-17",
+          "group": "Group L",
+          "match": "Ghana – Panama",
+          "guess": "3-1 (H)",
+          "answer": "1-0 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-17|England|Croatia",
+          "date": "2026-06-17",
+          "group": "Group L",
+          "match": "England – Croatia",
+          "guess": "2-1 (H)",
+          "answer": "4-2 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-23|England|Ghana",
+          "date": "2026-06-23",
+          "group": "Group L",
+          "match": "England – Ghana",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-23|Panama|Croatia",
+          "date": "2026-06-23",
+          "group": "Group L",
+          "match": "Panama – Croatia",
+          "guess": "2-3 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-27|Panama|England",
+          "date": "2026-06-27",
+          "group": "Group L",
+          "match": "Panama – England",
+          "guess": "2-2 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-27|Croatia|Ghana",
+          "date": "2026-06-27",
+          "group": "Group L",
+          "match": "Croatia – Ghana",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        }
+      ],
+      "knockout": [
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 1,
+          "guess": "Belgium",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 2,
+          "guess": "Brazil",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 3,
+          "guess": "Croatia",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 4,
+          "guess": "France",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 5,
+          "guess": "Germany",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 6,
+          "guess": "Norway",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 7,
+          "guess": "Portugal",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 8,
+          "guess": "Spain",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 9,
+          "guess": "Uruguay",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 10,
+          "guess": "Morocco",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 11,
+          "guess": "Scotland",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 12,
+          "guess": "England",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 13,
+          "guess": "Argentina",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 14,
+          "guess": "Egypt",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 15,
+          "guess": "Iraq",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 16,
+          "guess": "Japan",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 17,
+          "guess": "Mexico",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 18,
+          "guess": "Netherlands",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 19,
+          "guess": "Paraguay",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 20,
+          "guess": "Senegal",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 21,
+          "guess": "USA",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 22,
+          "guess": "Austria",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 23,
+          "guess": "Australia",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 24,
+          "guess": "Canada",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 25,
+          "guess": "Ecuador",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 26,
+          "guess": "Qatar",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 27,
+          "guess": "Switzerland",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 28,
+          "guess": "South Africa",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 29,
+          "guess": "Korea Republic",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 30,
+          "guess": "Ghana",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 31,
+          "guess": "Czechia",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 32,
+          "guess": "Colombia",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 1,
+          "guess": "Belgium",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 2,
+          "guess": "Brazil",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 3,
+          "guess": "England",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 4,
+          "guess": "Germany",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 5,
+          "guess": "France",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 6,
+          "guess": "Spain",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 7,
+          "guess": "Norway",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 8,
+          "guess": "Argentina",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 9,
+          "guess": "Croatia",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 10,
+          "guess": "Ecuador",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 11,
+          "guess": "Morocco",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 12,
+          "guess": "Mexico",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 13,
+          "guess": "Portugal",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 14,
+          "guess": "USA",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 15,
+          "guess": "Korea Republic",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 16,
+          "guess": "Japan",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 1,
+          "guess": "Belgium",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 2,
+          "guess": "Brazil",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 3,
+          "guess": "France",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 4,
+          "guess": "Germany",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 5,
+          "guess": "Spain",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 6,
+          "guess": "Portugal",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 7,
+          "guess": "Argentina",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 8,
+          "guess": "USA",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "sf",
+          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
+          "slot": 1,
+          "guess": "England",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "sf",
+          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
+          "slot": 2,
+          "guess": "France",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "sf",
+          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
+          "slot": 3,
+          "guess": "Germany",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "sf",
+          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
+          "slot": 4,
+          "guess": "Argentina",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "finalists",
+          "roundLabel": "Finalistar (40p for kvart rette lag)",
+          "slot": 1,
+          "guess": "France",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "finalists",
+          "roundLabel": "Finalistar (40p for kvart rette lag)",
+          "slot": 2,
+          "guess": "England",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "winner",
+          "roundLabel": "Vinnar (50p for kvart rette lag)",
+          "slot": 1,
+          "guess": "France",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        }
+      ],
+      "bonus": [
+        {
+          "id": "top_scorer",
+          "question": "TOPPSCORAR",
+          "guess": "Harry kane",
+          "answer": "Lionel Messi",
+          "points": 16,
+          "status": "rett",
+          "utfall": "2 mål × 8p",
+          "correct": true
+        },
+        {
+          "id": "top_scoring_team",
+          "question": "Mestskorande lag",
+          "guess": "Spania",
+          "answer": "Germany",
+          "points": 0,
+          "status": "feil",
+          "utfall": "0 mål × 5p",
+          "correct": false
+        },
+        {
+          "id": "worst_defense",
+          "question": "Mest innslupne mål / verste forsvar",
+          "guess": "Curaçao",
+          "answer": "Curaçao",
+          "points": 35,
+          "status": "rett",
+          "utfall": "7 innslupne × 5p",
+          "correct": true
+        },
+        {
+          "id": "first_red_card",
+          "question": "Kva spelar får det første raude kortet i VM?",
+          "guess": "Sergio Ramos",
+          "answer": "Sphephelo Sithole",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil spelar",
+          "correct": false
+        },
+        {
+          "id": "most_red_cards",
+          "question": "Kva lag får flest raude kort?",
+          "guess": "Argentina",
+          "answer": "South Africa",
+          "points": 0,
+          "status": "feil",
+          "utfall": "0 kort × 10p",
+          "correct": false
+        }
+      ]
+    },
+    {
       "name": "Harald",
       "scores": {
-        "group": 100,
+        "group": 105,
         "knockout": 0,
         "bonus": 16,
-        "total": 116,
-        "groupPlayed": 20,
+        "total": 121,
+        "groupPlayed": 24,
         "groupTotal": 72
       },
       "groupMatches": [
@@ -10286,11 +11862,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Portugal – Congo DR",
           "guess": "4-1 (H)",
-          "answer": "—",
+          "answer": "1-1 (U)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|Uzbekistan|Colombia",
@@ -10298,11 +11874,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Uzbekistan – Colombia",
           "guess": "0-2 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "1-3 (B)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-23|Portugal|Uzbekistan",
@@ -10358,11 +11934,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "Ghana – Panama",
           "guess": "1-1 (U)",
-          "answer": "—",
+          "answer": "1-0 (H)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|England|Croatia",
@@ -10370,11 +11946,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "England – Croatia",
           "guess": "1-2 (B)",
-          "answer": "—",
+          "answer": "4-2 (H)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-23|England|Ghana",
@@ -11176,11 +12752,11 @@ window.APP_DATA = {
     {
       "name": "Kathrine",
       "scores": {
-        "group": 75,
+        "group": 85,
         "knockout": 0,
         "bonus": 36,
-        "total": 111,
-        "groupPlayed": 20,
+        "total": 121,
+        "groupPlayed": 24,
         "groupTotal": 72
       },
       "groupMatches": [
@@ -11910,11 +13486,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Portugal – Congo DR",
           "guess": "2-1 (H)",
-          "answer": "—",
+          "answer": "1-1 (U)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|Uzbekistan|Colombia",
@@ -11922,11 +13498,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Uzbekistan – Colombia",
           "guess": "0-1 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "1-3 (B)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-23|Portugal|Uzbekistan",
@@ -11982,11 +13558,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "Ghana – Panama",
           "guess": "2-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "1-0 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-17|England|Croatia",
@@ -11994,11 +13570,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "England – Croatia",
           "guess": "0-2 (B)",
-          "answer": "—",
+          "answer": "4-2 (H)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-23|England|Ghana",
@@ -12800,11 +14376,11 @@ window.APP_DATA = {
     {
       "name": "Mikkel",
       "scores": {
-        "group": 70,
+        "group": 80,
         "knockout": 0,
         "bonus": 36,
-        "total": 106,
-        "groupPlayed": 20,
+        "total": 116,
+        "groupPlayed": 24,
         "groupTotal": 72
       },
       "groupMatches": [
@@ -13534,11 +15110,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Portugal – Congo DR",
           "guess": "3-0 (H)",
-          "answer": "—",
+          "answer": "1-1 (U)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|Uzbekistan|Colombia",
@@ -13546,11 +15122,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Uzbekistan – Colombia",
           "guess": "1-2 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "1-3 (B)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-23|Portugal|Uzbekistan",
@@ -13606,11 +15182,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "Ghana – Panama",
           "guess": "1-1 (U)",
-          "answer": "—",
+          "answer": "1-0 (H)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|England|Croatia",
@@ -13618,11 +15194,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "England – Croatia",
           "guess": "2-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "4-2 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-23|England|Ghana",
@@ -14422,3261 +15998,13 @@ window.APP_DATA = {
       ]
     },
     {
-      "name": "Kjersti",
-      "scores": {
-        "group": 60,
-        "knockout": 0,
-        "bonus": 35,
-        "total": 95,
-        "groupPlayed": 20,
-        "groupTotal": 72
-      },
-      "groupMatches": [
-        {
-          "id": "2026-06-11|Mexico|South Africa",
-          "date": "2026-06-11",
-          "group": "Group A",
-          "match": "Mexico – South Africa",
-          "guess": "4-1 (H)",
-          "answer": "2-0 (H)",
-          "points": 5,
-          "status": "delvis",
-          "utfall": "Rett utfall",
-          "correct": true
-        },
-        {
-          "id": "2026-06-11|Korea Republic|Czechia",
-          "date": "2026-06-11",
-          "group": "Group A",
-          "match": "Korea Republic – Czechia",
-          "guess": "2-5 (B)",
-          "answer": "2-1 (H)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-18|Czechia|South Africa",
-          "date": "2026-06-18",
-          "group": "Group A",
-          "match": "Czechia – South Africa",
-          "guess": "2-3 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-18|Mexico|Korea Republic",
-          "date": "2026-06-18",
-          "group": "Group A",
-          "match": "Mexico – Korea Republic",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-24|Czechia|Mexico",
-          "date": "2026-06-24",
-          "group": "Group A",
-          "match": "Czechia – Mexico",
-          "guess": "2-3 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-24|South Africa|Korea Republic",
-          "date": "2026-06-24",
-          "group": "Group A",
-          "match": "South Africa – Korea Republic",
-          "guess": "1-1 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-12|Canada|Bosnia and Herzegovina",
-          "date": "2026-06-12",
-          "group": "Group B",
-          "match": "Canada – Bosnia and Herzegovina",
-          "guess": "1-2 (B)",
-          "answer": "1-1 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-13|Qatar|Switzerland",
-          "date": "2026-06-13",
-          "group": "Group B",
-          "match": "Qatar – Switzerland",
-          "guess": "1-4 (B)",
-          "answer": "1-1 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-18|Switzerland|Bosnia and Herzegovina",
-          "date": "2026-06-18",
-          "group": "Group B",
-          "match": "Switzerland – Bosnia and Herzegovina",
-          "guess": "2-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-18|Canada|Qatar",
-          "date": "2026-06-18",
-          "group": "Group B",
-          "match": "Canada – Qatar",
-          "guess": "2-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-24|Switzerland|Canada",
-          "date": "2026-06-24",
-          "group": "Group B",
-          "match": "Switzerland – Canada",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-24|Bosnia and Herzegovina|Qatar",
-          "date": "2026-06-24",
-          "group": "Group B",
-          "match": "Bosnia and Herzegovina – Qatar",
-          "guess": "1-3 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-13|Haiti|Scotland",
-          "date": "2026-06-13",
-          "group": "Group C",
-          "match": "Haiti – Scotland",
-          "guess": "1-5 (B)",
-          "answer": "0-1 (B)",
-          "points": 5,
-          "status": "delvis",
-          "utfall": "Rett utfall",
-          "correct": true
-        },
-        {
-          "id": "2026-06-13|Brazil|Morocco",
-          "date": "2026-06-13",
-          "group": "Group C",
-          "match": "Brazil – Morocco",
-          "guess": "5-2 (H)",
-          "answer": "1-1 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-19|Brazil|Haiti",
-          "date": "2026-06-19",
-          "group": "Group C",
-          "match": "Brazil – Haiti",
-          "guess": "5-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-19|Scotland|Morocco",
-          "date": "2026-06-19",
-          "group": "Group C",
-          "match": "Scotland – Morocco",
-          "guess": "3-2 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-24|Scotland|Brazil",
-          "date": "2026-06-24",
-          "group": "Group C",
-          "match": "Scotland – Brazil",
-          "guess": "2-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-24|Morocco|Haiti",
-          "date": "2026-06-24",
-          "group": "Group C",
-          "match": "Morocco – Haiti",
-          "guess": "2-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-12|USA|Paraguay",
-          "date": "2026-06-12",
-          "group": "Group D",
-          "match": "USA – Paraguay",
-          "guess": "3-1 (H)",
-          "answer": "4-1 (H)",
-          "points": 5,
-          "status": "delvis",
-          "utfall": "Rett utfall",
-          "correct": true
-        },
-        {
-          "id": "2026-06-13|Australia|Türkiye",
-          "date": "2026-06-13",
-          "group": "Group D",
-          "match": "Australia – Türkiye",
-          "guess": "1-1 (U)",
-          "answer": "2-0 (H)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-19|Türkiye|Paraguay",
-          "date": "2026-06-19",
-          "group": "Group D",
-          "match": "Türkiye – Paraguay",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-19|USA|Australia",
-          "date": "2026-06-19",
-          "group": "Group D",
-          "match": "USA – Australia",
-          "guess": "2-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-25|Türkiye|USA",
-          "date": "2026-06-25",
-          "group": "Group D",
-          "match": "Türkiye – USA",
-          "guess": "2-2 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-25|Paraguay|Australia",
-          "date": "2026-06-25",
-          "group": "Group D",
-          "match": "Paraguay – Australia",
-          "guess": "3-2 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-14|Côte d'Ivoire|Ecuador",
-          "date": "2026-06-14",
-          "group": "Group E",
-          "match": "Côte d'Ivoire – Ecuador",
-          "guess": "0-5 (B)",
-          "answer": "1-0 (H)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-14|Germany|Curaçao",
-          "date": "2026-06-14",
-          "group": "Group E",
-          "match": "Germany – Curaçao",
-          "guess": "3-0 (H)",
-          "answer": "7-1 (H)",
-          "points": 5,
-          "status": "delvis",
-          "utfall": "Rett utfall",
-          "correct": true
-        },
-        {
-          "id": "2026-06-20|Germany|Côte d'Ivoire",
-          "date": "2026-06-20",
-          "group": "Group E",
-          "match": "Germany – Côte d'Ivoire",
-          "guess": "4-2 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-20|Ecuador|Curaçao",
-          "date": "2026-06-20",
-          "group": "Group E",
-          "match": "Ecuador – Curaçao",
-          "guess": "4-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-25|Curaçao|Côte d'Ivoire",
-          "date": "2026-06-25",
-          "group": "Group E",
-          "match": "Curaçao – Côte d'Ivoire",
-          "guess": "2-2 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-25|Ecuador|Germany",
-          "date": "2026-06-25",
-          "group": "Group E",
-          "match": "Ecuador – Germany",
-          "guess": "3-4 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-14|Netherlands|Japan",
-          "date": "2026-06-14",
-          "group": "Group F",
-          "match": "Netherlands – Japan",
-          "guess": "1-2 (B)",
-          "answer": "2-2 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-14|Sweden|Tunisia",
-          "date": "2026-06-14",
-          "group": "Group F",
-          "match": "Sweden – Tunisia",
-          "guess": "2-1 (H)",
-          "answer": "5-1 (H)",
-          "points": 5,
-          "status": "delvis",
-          "utfall": "Rett utfall",
-          "correct": true
-        },
-        {
-          "id": "2026-06-20|Netherlands|Sweden",
-          "date": "2026-06-20",
-          "group": "Group F",
-          "match": "Netherlands – Sweden",
-          "guess": "1-1 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-20|Tunisia|Japan",
-          "date": "2026-06-20",
-          "group": "Group F",
-          "match": "Tunisia – Japan",
-          "guess": "2-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-25|Japan|Sweden",
-          "date": "2026-06-25",
-          "group": "Group F",
-          "match": "Japan – Sweden",
-          "guess": "2-2 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-25|Tunisia|Netherlands",
-          "date": "2026-06-25",
-          "group": "Group F",
-          "match": "Tunisia – Netherlands",
-          "guess": "1-2 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-15|IR Iran|New Zealand",
-          "date": "2026-06-15",
-          "group": "Group G",
-          "match": "IR Iran – New Zealand",
-          "guess": "2-1 (H)",
-          "answer": "2-2 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-15|Belgium|Egypt",
-          "date": "2026-06-15",
-          "group": "Group G",
-          "match": "Belgium – Egypt",
-          "guess": "3-1 (H)",
-          "answer": "1-1 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-21|Belgium|IR Iran",
-          "date": "2026-06-21",
-          "group": "Group G",
-          "match": "Belgium – IR Iran",
-          "guess": "3-2 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-21|New Zealand|Egypt",
-          "date": "2026-06-21",
-          "group": "Group G",
-          "match": "New Zealand – Egypt",
-          "guess": "1-2 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-26|Egypt|IR Iran",
-          "date": "2026-06-26",
-          "group": "Group G",
-          "match": "Egypt – IR Iran",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-26|New Zealand|Belgium",
-          "date": "2026-06-26",
-          "group": "Group G",
-          "match": "New Zealand – Belgium",
-          "guess": "1-2 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-15|Saudi Arabia|Uruguay",
-          "date": "2026-06-15",
-          "group": "Group H",
-          "match": "Saudi Arabia – Uruguay",
-          "guess": "1-3 (B)",
-          "answer": "1-1 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-15|Spain|Cabo Verde",
-          "date": "2026-06-15",
-          "group": "Group H",
-          "match": "Spain – Cabo Verde",
-          "guess": "3-0 (H)",
-          "answer": "0-0 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-21|Uruguay|Cabo Verde",
-          "date": "2026-06-21",
-          "group": "Group H",
-          "match": "Uruguay – Cabo Verde",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-21|Spain|Saudi Arabia",
-          "date": "2026-06-21",
-          "group": "Group H",
-          "match": "Spain – Saudi Arabia",
-          "guess": "4-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-26|Cabo Verde|Saudi Arabia",
-          "date": "2026-06-26",
-          "group": "Group H",
-          "match": "Cabo Verde – Saudi Arabia",
-          "guess": "2-2 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-26|Uruguay|Spain",
-          "date": "2026-06-26",
-          "group": "Group H",
-          "match": "Uruguay – Spain",
-          "guess": "2-3 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-16|France|Senegal",
-          "date": "2026-06-16",
-          "group": "Group I",
-          "match": "France – Senegal",
-          "guess": "3-1 (H)",
-          "answer": "3-1 (H)",
-          "points": 25,
-          "status": "rett",
-          "utfall": "Rett resultat",
-          "correct": true
-        },
-        {
-          "id": "2026-06-16|Iraq|Norway",
-          "date": "2026-06-16",
-          "group": "Group I",
-          "match": "Iraq – Norway",
-          "guess": "2-1 (H)",
-          "answer": "1-4 (B)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-22|Norway|Senegal",
-          "date": "2026-06-22",
-          "group": "Group I",
-          "match": "Norway – Senegal",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-22|France|Iraq",
-          "date": "2026-06-22",
-          "group": "Group I",
-          "match": "France – Iraq",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-26|Norway|France",
-          "date": "2026-06-26",
-          "group": "Group I",
-          "match": "Norway – France",
-          "guess": "2-2 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-26|Senegal|Iraq",
-          "date": "2026-06-26",
-          "group": "Group I",
-          "match": "Senegal – Iraq",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-16|Argentina|Algeria",
-          "date": "2026-06-16",
-          "group": "Group J",
-          "match": "Argentina – Algeria",
-          "guess": "2-1 (H)",
-          "answer": "3-0 (H)",
-          "points": 5,
-          "status": "delvis",
-          "utfall": "Rett utfall",
-          "correct": true
-        },
-        {
-          "id": "2026-06-16|Austria|Jordan",
-          "date": "2026-06-16",
-          "group": "Group J",
-          "match": "Austria – Jordan",
-          "guess": "2-0 (H)",
-          "answer": "3-1 (H)",
-          "points": 5,
-          "status": "delvis",
-          "utfall": "Rett utfall",
-          "correct": true
-        },
-        {
-          "id": "2026-06-22|Argentina|Austria",
-          "date": "2026-06-22",
-          "group": "Group J",
-          "match": "Argentina – Austria",
-          "guess": "2-3 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-22|Jordan|Algeria",
-          "date": "2026-06-22",
-          "group": "Group J",
-          "match": "Jordan – Algeria",
-          "guess": "1-1 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-27|Algeria|Austria",
-          "date": "2026-06-27",
-          "group": "Group J",
-          "match": "Algeria – Austria",
-          "guess": "1-2 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-27|Jordan|Argentina",
-          "date": "2026-06-27",
-          "group": "Group J",
-          "match": "Jordan – Argentina",
-          "guess": "1-3 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-17|Portugal|Congo DR",
-          "date": "2026-06-17",
-          "group": "Group K",
-          "match": "Portugal – Congo DR",
-          "guess": "3-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-17|Uzbekistan|Colombia",
-          "date": "2026-06-17",
-          "group": "Group K",
-          "match": "Uzbekistan – Colombia",
-          "guess": "1-2 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-23|Portugal|Uzbekistan",
-          "date": "2026-06-23",
-          "group": "Group K",
-          "match": "Portugal – Uzbekistan",
-          "guess": "2-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-23|Colombia|Congo DR",
-          "date": "2026-06-23",
-          "group": "Group K",
-          "match": "Colombia – Congo DR",
-          "guess": "2-2 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-27|Colombia|Portugal",
-          "date": "2026-06-27",
-          "group": "Group K",
-          "match": "Colombia – Portugal",
-          "guess": "1-3 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-27|Congo DR|Uzbekistan",
-          "date": "2026-06-27",
-          "group": "Group K",
-          "match": "Congo DR – Uzbekistan",
-          "guess": "2-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-17|Ghana|Panama",
-          "date": "2026-06-17",
-          "group": "Group L",
-          "match": "Ghana – Panama",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-17|England|Croatia",
-          "date": "2026-06-17",
-          "group": "Group L",
-          "match": "England – Croatia",
-          "guess": "2-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-23|England|Ghana",
-          "date": "2026-06-23",
-          "group": "Group L",
-          "match": "England – Ghana",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-23|Panama|Croatia",
-          "date": "2026-06-23",
-          "group": "Group L",
-          "match": "Panama – Croatia",
-          "guess": "2-3 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-27|Panama|England",
-          "date": "2026-06-27",
-          "group": "Group L",
-          "match": "Panama – England",
-          "guess": "2-2 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-27|Croatia|Ghana",
-          "date": "2026-06-27",
-          "group": "Group L",
-          "match": "Croatia – Ghana",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        }
-      ],
-      "knockout": [
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 1,
-          "guess": "Belgium",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 2,
-          "guess": "Brazil",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 3,
-          "guess": "Croatia",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 4,
-          "guess": "France",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 5,
-          "guess": "Germany",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 6,
-          "guess": "Norway",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 7,
-          "guess": "Portugal",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 8,
-          "guess": "Spain",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 9,
-          "guess": "Uruguay",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 10,
-          "guess": "Morocco",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 11,
-          "guess": "Scotland",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 12,
-          "guess": "England",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 13,
-          "guess": "Argentina",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 14,
-          "guess": "Egypt",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 15,
-          "guess": "Iraq",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 16,
-          "guess": "Japan",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 17,
-          "guess": "Mexico",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 18,
-          "guess": "Netherlands",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 19,
-          "guess": "Paraguay",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 20,
-          "guess": "Senegal",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 21,
-          "guess": "USA",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 22,
-          "guess": "Austria",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 23,
-          "guess": "Australia",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 24,
-          "guess": "Canada",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 25,
-          "guess": "Ecuador",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 26,
-          "guess": "Qatar",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 27,
-          "guess": "Switzerland",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 28,
-          "guess": "South Africa",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 29,
-          "guess": "Korea Republic",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 30,
-          "guess": "Ghana",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 31,
-          "guess": "Czechia",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 32,
-          "guess": "Colombia",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 1,
-          "guess": "Belgium",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 2,
-          "guess": "Brazil",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 3,
-          "guess": "England",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 4,
-          "guess": "Germany",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 5,
-          "guess": "France",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 6,
-          "guess": "Spain",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 7,
-          "guess": "Norway",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 8,
-          "guess": "Argentina",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 9,
-          "guess": "Croatia",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 10,
-          "guess": "Ecuador",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 11,
-          "guess": "Morocco",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 12,
-          "guess": "Mexico",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 13,
-          "guess": "Portugal",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 14,
-          "guess": "USA",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 15,
-          "guess": "Korea Republic",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 16,
-          "guess": "Japan",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 1,
-          "guess": "Belgium",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 2,
-          "guess": "Brazil",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 3,
-          "guess": "France",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 4,
-          "guess": "Germany",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 5,
-          "guess": "Spain",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 6,
-          "guess": "Portugal",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 7,
-          "guess": "Argentina",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 8,
-          "guess": "USA",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "sf",
-          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
-          "slot": 1,
-          "guess": "England",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "sf",
-          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
-          "slot": 2,
-          "guess": "France",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "sf",
-          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
-          "slot": 3,
-          "guess": "Germany",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "sf",
-          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
-          "slot": 4,
-          "guess": "Argentina",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "finalists",
-          "roundLabel": "Finalistar (40p for kvart rette lag)",
-          "slot": 1,
-          "guess": "France",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "finalists",
-          "roundLabel": "Finalistar (40p for kvart rette lag)",
-          "slot": 2,
-          "guess": "England",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "winner",
-          "roundLabel": "Vinnar (50p for kvart rette lag)",
-          "slot": 1,
-          "guess": "France",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        }
-      ],
-      "bonus": [
-        {
-          "id": "top_scorer",
-          "question": "TOPPSCORAR",
-          "guess": "Harry kane",
-          "answer": "Lionel Messi",
-          "points": 0,
-          "status": "feil",
-          "utfall": "0 mål × 8p",
-          "correct": false
-        },
-        {
-          "id": "top_scoring_team",
-          "question": "Mestskorande lag",
-          "guess": "Spania",
-          "answer": "Germany",
-          "points": 0,
-          "status": "feil",
-          "utfall": "0 mål × 5p",
-          "correct": false
-        },
-        {
-          "id": "worst_defense",
-          "question": "Mest innslupne mål / verste forsvar",
-          "guess": "Curaçao",
-          "answer": "Curaçao",
-          "points": 35,
-          "status": "rett",
-          "utfall": "7 innslupne × 5p",
-          "correct": true
-        },
-        {
-          "id": "first_red_card",
-          "question": "Kva spelar får det første raude kortet i VM?",
-          "guess": "Sergio Ramos",
-          "answer": "Sphephelo Sithole",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil spelar",
-          "correct": false
-        },
-        {
-          "id": "most_red_cards",
-          "question": "Kva lag får flest raude kort?",
-          "guess": "Argentina",
-          "answer": "South Africa",
-          "points": 0,
-          "status": "feil",
-          "utfall": "0 kort × 10p",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "name": "Ville",
+      "name": "Anja",
       "scores": {
         "group": 85,
         "knockout": 0,
-        "bonus": 5,
-        "total": 90,
-        "groupPlayed": 20,
-        "groupTotal": 72
-      },
-      "groupMatches": [
-        {
-          "id": "2026-06-11|Mexico|South Africa",
-          "date": "2026-06-11",
-          "group": "Group A",
-          "match": "Mexico – South Africa",
-          "guess": "3-1 (H)",
-          "answer": "2-0 (H)",
-          "points": 5,
-          "status": "delvis",
-          "utfall": "Rett utfall",
-          "correct": true
-        },
-        {
-          "id": "2026-06-11|Korea Republic|Czechia",
-          "date": "2026-06-11",
-          "group": "Group A",
-          "match": "Korea Republic – Czechia",
-          "guess": "1-0 (H)",
-          "answer": "2-1 (H)",
-          "points": 5,
-          "status": "delvis",
-          "utfall": "Rett utfall",
-          "correct": true
-        },
-        {
-          "id": "2026-06-18|Czechia|South Africa",
-          "date": "2026-06-18",
-          "group": "Group A",
-          "match": "Czechia – South Africa",
-          "guess": "2-3 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-18|Mexico|Korea Republic",
-          "date": "2026-06-18",
-          "group": "Group A",
-          "match": "Mexico – Korea Republic",
-          "guess": "2-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-24|Czechia|Mexico",
-          "date": "2026-06-24",
-          "group": "Group A",
-          "match": "Czechia – Mexico",
-          "guess": "2-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-24|South Africa|Korea Republic",
-          "date": "2026-06-24",
-          "group": "Group A",
-          "match": "South Africa – Korea Republic",
-          "guess": "3-2 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-12|Canada|Bosnia and Herzegovina",
-          "date": "2026-06-12",
-          "group": "Group B",
-          "match": "Canada – Bosnia and Herzegovina",
-          "guess": "4-3 (H)",
-          "answer": "1-1 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-13|Qatar|Switzerland",
-          "date": "2026-06-13",
-          "group": "Group B",
-          "match": "Qatar – Switzerland",
-          "guess": "1-0 (H)",
-          "answer": "1-1 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-18|Switzerland|Bosnia and Herzegovina",
-          "date": "2026-06-18",
-          "group": "Group B",
-          "match": "Switzerland – Bosnia and Herzegovina",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-18|Canada|Qatar",
-          "date": "2026-06-18",
-          "group": "Group B",
-          "match": "Canada – Qatar",
-          "guess": "0-2 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-24|Switzerland|Canada",
-          "date": "2026-06-24",
-          "group": "Group B",
-          "match": "Switzerland – Canada",
-          "guess": "1-1 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-24|Bosnia and Herzegovina|Qatar",
-          "date": "2026-06-24",
-          "group": "Group B",
-          "match": "Bosnia and Herzegovina – Qatar",
-          "guess": "1-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-13|Haiti|Scotland",
-          "date": "2026-06-13",
-          "group": "Group C",
-          "match": "Haiti – Scotland",
-          "guess": "0-1 (B)",
-          "answer": "0-1 (B)",
-          "points": 25,
-          "status": "rett",
-          "utfall": "Rett resultat",
-          "correct": true
-        },
-        {
-          "id": "2026-06-13|Brazil|Morocco",
-          "date": "2026-06-13",
-          "group": "Group C",
-          "match": "Brazil – Morocco",
-          "guess": "4-3 (H)",
-          "answer": "1-1 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-19|Brazil|Haiti",
-          "date": "2026-06-19",
-          "group": "Group C",
-          "match": "Brazil – Haiti",
-          "guess": "8-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-19|Scotland|Morocco",
-          "date": "2026-06-19",
-          "group": "Group C",
-          "match": "Scotland – Morocco",
-          "guess": "2-4 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-24|Scotland|Brazil",
-          "date": "2026-06-24",
-          "group": "Group C",
-          "match": "Scotland – Brazil",
-          "guess": "2-3 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-24|Morocco|Haiti",
-          "date": "2026-06-24",
-          "group": "Group C",
-          "match": "Morocco – Haiti",
-          "guess": "6-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-12|USA|Paraguay",
-          "date": "2026-06-12",
-          "group": "Group D",
-          "match": "USA – Paraguay",
-          "guess": "4-1 (H)",
-          "answer": "4-1 (H)",
-          "points": 25,
-          "status": "rett",
-          "utfall": "Rett resultat",
-          "correct": true
-        },
-        {
-          "id": "2026-06-13|Australia|Türkiye",
-          "date": "2026-06-13",
-          "group": "Group D",
-          "match": "Australia – Türkiye",
-          "guess": "1-3 (B)",
-          "answer": "2-0 (H)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-19|Türkiye|Paraguay",
-          "date": "2026-06-19",
-          "group": "Group D",
-          "match": "Türkiye – Paraguay",
-          "guess": "4-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-19|USA|Australia",
-          "date": "2026-06-19",
-          "group": "Group D",
-          "match": "USA – Australia",
-          "guess": "4-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-25|Türkiye|USA",
-          "date": "2026-06-25",
-          "group": "Group D",
-          "match": "Türkiye – USA",
-          "guess": "3-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-25|Paraguay|Australia",
-          "date": "2026-06-25",
-          "group": "Group D",
-          "match": "Paraguay – Australia",
-          "guess": "2-2 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-14|Côte d'Ivoire|Ecuador",
-          "date": "2026-06-14",
-          "group": "Group E",
-          "match": "Côte d'Ivoire – Ecuador",
-          "guess": "2-2 (U)",
-          "answer": "1-0 (H)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-14|Germany|Curaçao",
-          "date": "2026-06-14",
-          "group": "Group E",
-          "match": "Germany – Curaçao",
-          "guess": "6-0 (H)",
-          "answer": "7-1 (H)",
-          "points": 5,
-          "status": "delvis",
-          "utfall": "Rett utfall",
-          "correct": true
-        },
-        {
-          "id": "2026-06-20|Germany|Côte d'Ivoire",
-          "date": "2026-06-20",
-          "group": "Group E",
-          "match": "Germany – Côte d'Ivoire",
-          "guess": "4-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-20|Ecuador|Curaçao",
-          "date": "2026-06-20",
-          "group": "Group E",
-          "match": "Ecuador – Curaçao",
-          "guess": "6-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-25|Curaçao|Côte d'Ivoire",
-          "date": "2026-06-25",
-          "group": "Group E",
-          "match": "Curaçao – Côte d'Ivoire",
-          "guess": "2-8 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-25|Ecuador|Germany",
-          "date": "2026-06-25",
-          "group": "Group E",
-          "match": "Ecuador – Germany",
-          "guess": "2-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-14|Netherlands|Japan",
-          "date": "2026-06-14",
-          "group": "Group F",
-          "match": "Netherlands – Japan",
-          "guess": "3-1 (H)",
-          "answer": "2-2 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-14|Sweden|Tunisia",
-          "date": "2026-06-14",
-          "group": "Group F",
-          "match": "Sweden – Tunisia",
-          "guess": "3-3 (U)",
-          "answer": "5-1 (H)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-20|Netherlands|Sweden",
-          "date": "2026-06-20",
-          "group": "Group F",
-          "match": "Netherlands – Sweden",
-          "guess": "6-3 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-20|Tunisia|Japan",
-          "date": "2026-06-20",
-          "group": "Group F",
-          "match": "Tunisia – Japan",
-          "guess": "0-3 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-25|Japan|Sweden",
-          "date": "2026-06-25",
-          "group": "Group F",
-          "match": "Japan – Sweden",
-          "guess": "2-4 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-25|Tunisia|Netherlands",
-          "date": "2026-06-25",
-          "group": "Group F",
-          "match": "Tunisia – Netherlands",
-          "guess": "1-3 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-15|IR Iran|New Zealand",
-          "date": "2026-06-15",
-          "group": "Group G",
-          "match": "IR Iran – New Zealand",
-          "guess": "0-3 (B)",
-          "answer": "2-2 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-15|Belgium|Egypt",
-          "date": "2026-06-15",
-          "group": "Group G",
-          "match": "Belgium – Egypt",
-          "guess": "3-3 (U)",
-          "answer": "1-1 (U)",
-          "points": 5,
-          "status": "delvis",
-          "utfall": "Rett utfall",
-          "correct": true
-        },
-        {
-          "id": "2026-06-21|Belgium|IR Iran",
-          "date": "2026-06-21",
-          "group": "Group G",
-          "match": "Belgium – IR Iran",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-21|New Zealand|Egypt",
-          "date": "2026-06-21",
-          "group": "Group G",
-          "match": "New Zealand – Egypt",
-          "guess": "3-2 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-26|Egypt|IR Iran",
-          "date": "2026-06-26",
-          "group": "Group G",
-          "match": "Egypt – IR Iran",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-26|New Zealand|Belgium",
-          "date": "2026-06-26",
-          "group": "Group G",
-          "match": "New Zealand – Belgium",
-          "guess": "1-2 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-15|Saudi Arabia|Uruguay",
-          "date": "2026-06-15",
-          "group": "Group H",
-          "match": "Saudi Arabia – Uruguay",
-          "guess": "3-2 (H)",
-          "answer": "1-1 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-15|Spain|Cabo Verde",
-          "date": "2026-06-15",
-          "group": "Group H",
-          "match": "Spain – Cabo Verde",
-          "guess": "10-1 (H)",
-          "answer": "0-0 (U)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-21|Uruguay|Cabo Verde",
-          "date": "2026-06-21",
-          "group": "Group H",
-          "match": "Uruguay – Cabo Verde",
-          "guess": "2-2 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-21|Spain|Saudi Arabia",
-          "date": "2026-06-21",
-          "group": "Group H",
-          "match": "Spain – Saudi Arabia",
-          "guess": "7-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-26|Cabo Verde|Saudi Arabia",
-          "date": "2026-06-26",
-          "group": "Group H",
-          "match": "Cabo Verde – Saudi Arabia",
-          "guess": "2-2 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-26|Uruguay|Spain",
-          "date": "2026-06-26",
-          "group": "Group H",
-          "match": "Uruguay – Spain",
-          "guess": "0-12 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-16|France|Senegal",
-          "date": "2026-06-16",
-          "group": "Group I",
-          "match": "France – Senegal",
-          "guess": "7-3 (H)",
-          "answer": "3-1 (H)",
-          "points": 5,
-          "status": "delvis",
-          "utfall": "Rett utfall",
-          "correct": true
-        },
-        {
-          "id": "2026-06-16|Iraq|Norway",
-          "date": "2026-06-16",
-          "group": "Group I",
-          "match": "Iraq – Norway",
-          "guess": "2-5 (B)",
-          "answer": "1-4 (B)",
-          "points": 5,
-          "status": "delvis",
-          "utfall": "Rett utfall",
-          "correct": true
-        },
-        {
-          "id": "2026-06-22|Norway|Senegal",
-          "date": "2026-06-22",
-          "group": "Group I",
-          "match": "Norway – Senegal",
-          "guess": "4-3 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-22|France|Iraq",
-          "date": "2026-06-22",
-          "group": "Group I",
-          "match": "France – Iraq",
-          "guess": "8-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-26|Norway|France",
-          "date": "2026-06-26",
-          "group": "Group I",
-          "match": "Norway – France",
-          "guess": "3-4 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-26|Senegal|Iraq",
-          "date": "2026-06-26",
-          "group": "Group I",
-          "match": "Senegal – Iraq",
-          "guess": "3-2 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-16|Argentina|Algeria",
-          "date": "2026-06-16",
-          "group": "Group J",
-          "match": "Argentina – Algeria",
-          "guess": "2-1 (H)",
-          "answer": "3-0 (H)",
-          "points": 5,
-          "status": "delvis",
-          "utfall": "Rett utfall",
-          "correct": true
-        },
-        {
-          "id": "2026-06-16|Austria|Jordan",
-          "date": "2026-06-16",
-          "group": "Group J",
-          "match": "Austria – Jordan",
-          "guess": "2-5 (B)",
-          "answer": "3-1 (H)",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil",
-          "correct": false
-        },
-        {
-          "id": "2026-06-22|Argentina|Austria",
-          "date": "2026-06-22",
-          "group": "Group J",
-          "match": "Argentina – Austria",
-          "guess": "4-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-22|Jordan|Algeria",
-          "date": "2026-06-22",
-          "group": "Group J",
-          "match": "Jordan – Algeria",
-          "guess": "4-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-27|Algeria|Austria",
-          "date": "2026-06-27",
-          "group": "Group J",
-          "match": "Algeria – Austria",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-27|Jordan|Argentina",
-          "date": "2026-06-27",
-          "group": "Group J",
-          "match": "Jordan – Argentina",
-          "guess": "3-3 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-17|Portugal|Congo DR",
-          "date": "2026-06-17",
-          "group": "Group K",
-          "match": "Portugal – Congo DR",
-          "guess": "3-2 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-17|Uzbekistan|Colombia",
-          "date": "2026-06-17",
-          "group": "Group K",
-          "match": "Uzbekistan – Colombia",
-          "guess": "1-2 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-23|Portugal|Uzbekistan",
-          "date": "2026-06-23",
-          "group": "Group K",
-          "match": "Portugal – Uzbekistan",
-          "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-23|Colombia|Congo DR",
-          "date": "2026-06-23",
-          "group": "Group K",
-          "match": "Colombia – Congo DR",
-          "guess": "1-1 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-27|Colombia|Portugal",
-          "date": "2026-06-27",
-          "group": "Group K",
-          "match": "Colombia – Portugal",
-          "guess": "0-1 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-27|Congo DR|Uzbekistan",
-          "date": "2026-06-27",
-          "group": "Group K",
-          "match": "Congo DR – Uzbekistan",
-          "guess": "2-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-17|Ghana|Panama",
-          "date": "2026-06-17",
-          "group": "Group L",
-          "match": "Ghana – Panama",
-          "guess": "0-0 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-17|England|Croatia",
-          "date": "2026-06-17",
-          "group": "Group L",
-          "match": "England – Croatia",
-          "guess": "2-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-23|England|Ghana",
-          "date": "2026-06-23",
-          "group": "Group L",
-          "match": "England – Ghana",
-          "guess": "2-3 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-23|Panama|Croatia",
-          "date": "2026-06-23",
-          "group": "Group L",
-          "match": "Panama – Croatia",
-          "guess": "1-1 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-27|Panama|England",
-          "date": "2026-06-27",
-          "group": "Group L",
-          "match": "Panama – England",
-          "guess": "0-1 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "id": "2026-06-27|Croatia|Ghana",
-          "date": "2026-06-27",
-          "group": "Group L",
-          "match": "Croatia – Ghana",
-          "guess": "0-0 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        }
-      ],
-      "knockout": [
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 1,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 2,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 3,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 4,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 5,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 6,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 7,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 8,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 9,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 10,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 11,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 12,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 13,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 14,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 15,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 16,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 17,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 18,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 19,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 20,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 21,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 22,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 23,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 24,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 25,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 26,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 27,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 28,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 29,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 30,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 31,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r32",
-          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
-          "slot": 32,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 1,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 2,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 3,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 4,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 5,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 6,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 7,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 8,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 9,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 10,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 11,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 12,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 13,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 14,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 15,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "r16",
-          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
-          "slot": 16,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 1,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 2,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 3,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 4,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 5,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 6,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 7,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "qf",
-          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
-          "slot": 8,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "sf",
-          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
-          "slot": 1,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "sf",
-          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
-          "slot": 2,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "sf",
-          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
-          "slot": 3,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "sf",
-          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
-          "slot": 4,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "finalists",
-          "roundLabel": "Finalistar (40p for kvart rette lag)",
-          "slot": 1,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "finalists",
-          "roundLabel": "Finalistar (40p for kvart rette lag)",
-          "slot": 2,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        },
-        {
-          "round": "winner",
-          "roundLabel": "Vinnar (50p for kvart rette lag)",
-          "slot": 1,
-          "guess": "—",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
-        }
-      ],
-      "bonus": [
-        {
-          "id": "top_scorer",
-          "question": "TOPPSCORAR",
-          "guess": "Lamine Yamal",
-          "answer": "Lionel Messi",
-          "points": 0,
-          "status": "feil",
-          "utfall": "0 mål × 8p",
-          "correct": false
-        },
-        {
-          "id": "top_scoring_team",
-          "question": "Mestskorande lag",
-          "guess": "Spain",
-          "answer": "Germany",
-          "points": 0,
-          "status": "feil",
-          "utfall": "0 mål × 5p",
-          "correct": false
-        },
-        {
-          "id": "worst_defense",
-          "question": "Mest innslupne mål / verste forsvar",
-          "guess": "Haiti",
-          "answer": "Curaçao",
-          "points": 5,
-          "status": "rett",
-          "utfall": "1 innslupne × 5p",
-          "correct": true
-        },
-        {
-          "id": "first_red_card",
-          "question": "Kva spelar får det første raude kortet i VM?",
-          "guess": "Mbappe",
-          "answer": "Sphephelo Sithole",
-          "points": 0,
-          "status": "feil",
-          "utfall": "Feil spelar",
-          "correct": false
-        },
-        {
-          "id": "most_red_cards",
-          "question": "Kva lag får flest raude kort?",
-          "guess": "France",
-          "answer": "South Africa",
-          "points": 0,
-          "status": "feil",
-          "utfall": "0 kort × 10p",
-          "correct": false
-        }
-      ]
-    },
-    {
-      "name": "Anja",
-      "scores": {
-        "group": 70,
-        "knockout": 0,
         "bonus": 16,
-        "total": 86,
-        "groupPlayed": 20,
+        "total": 101,
+        "groupPlayed": 24,
         "groupTotal": 72
       },
       "groupMatches": [
@@ -18406,11 +16734,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Portugal – Congo DR",
           "guess": "2-2 (U)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "1-1 (U)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-17|Uzbekistan|Colombia",
@@ -18418,11 +16746,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Uzbekistan – Colombia",
           "guess": "1-4 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "1-3 (B)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-23|Portugal|Uzbekistan",
@@ -18478,11 +16806,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "Ghana – Panama",
           "guess": "3-1 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "1-0 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-17|England|Croatia",
@@ -18490,11 +16818,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "England – Croatia",
           "guess": "1-1 (U)",
-          "answer": "—",
+          "answer": "4-2 (H)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-23|England|Ghana",
@@ -19294,13 +17622,1637 @@ window.APP_DATA = {
       ]
     },
     {
+      "name": "Ville",
+      "scores": {
+        "group": 95,
+        "knockout": 0,
+        "bonus": 5,
+        "total": 100,
+        "groupPlayed": 24,
+        "groupTotal": 72
+      },
+      "groupMatches": [
+        {
+          "id": "2026-06-11|Mexico|South Africa",
+          "date": "2026-06-11",
+          "group": "Group A",
+          "match": "Mexico – South Africa",
+          "guess": "3-1 (H)",
+          "answer": "2-0 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-11|Korea Republic|Czechia",
+          "date": "2026-06-11",
+          "group": "Group A",
+          "match": "Korea Republic – Czechia",
+          "guess": "1-0 (H)",
+          "answer": "2-1 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-18|Czechia|South Africa",
+          "date": "2026-06-18",
+          "group": "Group A",
+          "match": "Czechia – South Africa",
+          "guess": "2-3 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-18|Mexico|Korea Republic",
+          "date": "2026-06-18",
+          "group": "Group A",
+          "match": "Mexico – Korea Republic",
+          "guess": "2-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-24|Czechia|Mexico",
+          "date": "2026-06-24",
+          "group": "Group A",
+          "match": "Czechia – Mexico",
+          "guess": "2-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-24|South Africa|Korea Republic",
+          "date": "2026-06-24",
+          "group": "Group A",
+          "match": "South Africa – Korea Republic",
+          "guess": "3-2 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-12|Canada|Bosnia and Herzegovina",
+          "date": "2026-06-12",
+          "group": "Group B",
+          "match": "Canada – Bosnia and Herzegovina",
+          "guess": "4-3 (H)",
+          "answer": "1-1 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-13|Qatar|Switzerland",
+          "date": "2026-06-13",
+          "group": "Group B",
+          "match": "Qatar – Switzerland",
+          "guess": "1-0 (H)",
+          "answer": "1-1 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-18|Switzerland|Bosnia and Herzegovina",
+          "date": "2026-06-18",
+          "group": "Group B",
+          "match": "Switzerland – Bosnia and Herzegovina",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-18|Canada|Qatar",
+          "date": "2026-06-18",
+          "group": "Group B",
+          "match": "Canada – Qatar",
+          "guess": "0-2 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-24|Switzerland|Canada",
+          "date": "2026-06-24",
+          "group": "Group B",
+          "match": "Switzerland – Canada",
+          "guess": "1-1 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-24|Bosnia and Herzegovina|Qatar",
+          "date": "2026-06-24",
+          "group": "Group B",
+          "match": "Bosnia and Herzegovina – Qatar",
+          "guess": "1-0 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-13|Haiti|Scotland",
+          "date": "2026-06-13",
+          "group": "Group C",
+          "match": "Haiti – Scotland",
+          "guess": "0-1 (B)",
+          "answer": "0-1 (B)",
+          "points": 25,
+          "status": "rett",
+          "utfall": "Rett resultat",
+          "correct": true
+        },
+        {
+          "id": "2026-06-13|Brazil|Morocco",
+          "date": "2026-06-13",
+          "group": "Group C",
+          "match": "Brazil – Morocco",
+          "guess": "4-3 (H)",
+          "answer": "1-1 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-19|Brazil|Haiti",
+          "date": "2026-06-19",
+          "group": "Group C",
+          "match": "Brazil – Haiti",
+          "guess": "8-0 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-19|Scotland|Morocco",
+          "date": "2026-06-19",
+          "group": "Group C",
+          "match": "Scotland – Morocco",
+          "guess": "2-4 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-24|Scotland|Brazil",
+          "date": "2026-06-24",
+          "group": "Group C",
+          "match": "Scotland – Brazil",
+          "guess": "2-3 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-24|Morocco|Haiti",
+          "date": "2026-06-24",
+          "group": "Group C",
+          "match": "Morocco – Haiti",
+          "guess": "6-0 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-12|USA|Paraguay",
+          "date": "2026-06-12",
+          "group": "Group D",
+          "match": "USA – Paraguay",
+          "guess": "4-1 (H)",
+          "answer": "4-1 (H)",
+          "points": 25,
+          "status": "rett",
+          "utfall": "Rett resultat",
+          "correct": true
+        },
+        {
+          "id": "2026-06-13|Australia|Türkiye",
+          "date": "2026-06-13",
+          "group": "Group D",
+          "match": "Australia – Türkiye",
+          "guess": "1-3 (B)",
+          "answer": "2-0 (H)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-19|Türkiye|Paraguay",
+          "date": "2026-06-19",
+          "group": "Group D",
+          "match": "Türkiye – Paraguay",
+          "guess": "4-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-19|USA|Australia",
+          "date": "2026-06-19",
+          "group": "Group D",
+          "match": "USA – Australia",
+          "guess": "4-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-25|Türkiye|USA",
+          "date": "2026-06-25",
+          "group": "Group D",
+          "match": "Türkiye – USA",
+          "guess": "3-0 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-25|Paraguay|Australia",
+          "date": "2026-06-25",
+          "group": "Group D",
+          "match": "Paraguay – Australia",
+          "guess": "2-2 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-14|Côte d'Ivoire|Ecuador",
+          "date": "2026-06-14",
+          "group": "Group E",
+          "match": "Côte d'Ivoire – Ecuador",
+          "guess": "2-2 (U)",
+          "answer": "1-0 (H)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-14|Germany|Curaçao",
+          "date": "2026-06-14",
+          "group": "Group E",
+          "match": "Germany – Curaçao",
+          "guess": "6-0 (H)",
+          "answer": "7-1 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-20|Germany|Côte d'Ivoire",
+          "date": "2026-06-20",
+          "group": "Group E",
+          "match": "Germany – Côte d'Ivoire",
+          "guess": "4-0 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-20|Ecuador|Curaçao",
+          "date": "2026-06-20",
+          "group": "Group E",
+          "match": "Ecuador – Curaçao",
+          "guess": "6-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-25|Curaçao|Côte d'Ivoire",
+          "date": "2026-06-25",
+          "group": "Group E",
+          "match": "Curaçao – Côte d'Ivoire",
+          "guess": "2-8 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-25|Ecuador|Germany",
+          "date": "2026-06-25",
+          "group": "Group E",
+          "match": "Ecuador – Germany",
+          "guess": "2-0 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-14|Netherlands|Japan",
+          "date": "2026-06-14",
+          "group": "Group F",
+          "match": "Netherlands – Japan",
+          "guess": "3-1 (H)",
+          "answer": "2-2 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-14|Sweden|Tunisia",
+          "date": "2026-06-14",
+          "group": "Group F",
+          "match": "Sweden – Tunisia",
+          "guess": "3-3 (U)",
+          "answer": "5-1 (H)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-20|Netherlands|Sweden",
+          "date": "2026-06-20",
+          "group": "Group F",
+          "match": "Netherlands – Sweden",
+          "guess": "6-3 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-20|Tunisia|Japan",
+          "date": "2026-06-20",
+          "group": "Group F",
+          "match": "Tunisia – Japan",
+          "guess": "0-3 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-25|Japan|Sweden",
+          "date": "2026-06-25",
+          "group": "Group F",
+          "match": "Japan – Sweden",
+          "guess": "2-4 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-25|Tunisia|Netherlands",
+          "date": "2026-06-25",
+          "group": "Group F",
+          "match": "Tunisia – Netherlands",
+          "guess": "1-3 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-15|IR Iran|New Zealand",
+          "date": "2026-06-15",
+          "group": "Group G",
+          "match": "IR Iran – New Zealand",
+          "guess": "0-3 (B)",
+          "answer": "2-2 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-15|Belgium|Egypt",
+          "date": "2026-06-15",
+          "group": "Group G",
+          "match": "Belgium – Egypt",
+          "guess": "3-3 (U)",
+          "answer": "1-1 (U)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-21|Belgium|IR Iran",
+          "date": "2026-06-21",
+          "group": "Group G",
+          "match": "Belgium – IR Iran",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-21|New Zealand|Egypt",
+          "date": "2026-06-21",
+          "group": "Group G",
+          "match": "New Zealand – Egypt",
+          "guess": "3-2 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-26|Egypt|IR Iran",
+          "date": "2026-06-26",
+          "group": "Group G",
+          "match": "Egypt – IR Iran",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-26|New Zealand|Belgium",
+          "date": "2026-06-26",
+          "group": "Group G",
+          "match": "New Zealand – Belgium",
+          "guess": "1-2 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-15|Saudi Arabia|Uruguay",
+          "date": "2026-06-15",
+          "group": "Group H",
+          "match": "Saudi Arabia – Uruguay",
+          "guess": "3-2 (H)",
+          "answer": "1-1 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-15|Spain|Cabo Verde",
+          "date": "2026-06-15",
+          "group": "Group H",
+          "match": "Spain – Cabo Verde",
+          "guess": "10-1 (H)",
+          "answer": "0-0 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-21|Uruguay|Cabo Verde",
+          "date": "2026-06-21",
+          "group": "Group H",
+          "match": "Uruguay – Cabo Verde",
+          "guess": "2-2 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-21|Spain|Saudi Arabia",
+          "date": "2026-06-21",
+          "group": "Group H",
+          "match": "Spain – Saudi Arabia",
+          "guess": "7-0 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-26|Cabo Verde|Saudi Arabia",
+          "date": "2026-06-26",
+          "group": "Group H",
+          "match": "Cabo Verde – Saudi Arabia",
+          "guess": "2-2 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-26|Uruguay|Spain",
+          "date": "2026-06-26",
+          "group": "Group H",
+          "match": "Uruguay – Spain",
+          "guess": "0-12 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-16|France|Senegal",
+          "date": "2026-06-16",
+          "group": "Group I",
+          "match": "France – Senegal",
+          "guess": "7-3 (H)",
+          "answer": "3-1 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-16|Iraq|Norway",
+          "date": "2026-06-16",
+          "group": "Group I",
+          "match": "Iraq – Norway",
+          "guess": "2-5 (B)",
+          "answer": "1-4 (B)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-22|Norway|Senegal",
+          "date": "2026-06-22",
+          "group": "Group I",
+          "match": "Norway – Senegal",
+          "guess": "4-3 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-22|France|Iraq",
+          "date": "2026-06-22",
+          "group": "Group I",
+          "match": "France – Iraq",
+          "guess": "8-0 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-26|Norway|France",
+          "date": "2026-06-26",
+          "group": "Group I",
+          "match": "Norway – France",
+          "guess": "3-4 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-26|Senegal|Iraq",
+          "date": "2026-06-26",
+          "group": "Group I",
+          "match": "Senegal – Iraq",
+          "guess": "3-2 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-16|Argentina|Algeria",
+          "date": "2026-06-16",
+          "group": "Group J",
+          "match": "Argentina – Algeria",
+          "guess": "2-1 (H)",
+          "answer": "3-0 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-16|Austria|Jordan",
+          "date": "2026-06-16",
+          "group": "Group J",
+          "match": "Austria – Jordan",
+          "guess": "2-5 (B)",
+          "answer": "3-1 (H)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-22|Argentina|Austria",
+          "date": "2026-06-22",
+          "group": "Group J",
+          "match": "Argentina – Austria",
+          "guess": "4-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-22|Jordan|Algeria",
+          "date": "2026-06-22",
+          "group": "Group J",
+          "match": "Jordan – Algeria",
+          "guess": "4-0 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-27|Algeria|Austria",
+          "date": "2026-06-27",
+          "group": "Group J",
+          "match": "Algeria – Austria",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-27|Jordan|Argentina",
+          "date": "2026-06-27",
+          "group": "Group J",
+          "match": "Jordan – Argentina",
+          "guess": "3-3 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-17|Portugal|Congo DR",
+          "date": "2026-06-17",
+          "group": "Group K",
+          "match": "Portugal – Congo DR",
+          "guess": "3-2 (H)",
+          "answer": "1-1 (U)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-17|Uzbekistan|Colombia",
+          "date": "2026-06-17",
+          "group": "Group K",
+          "match": "Uzbekistan – Colombia",
+          "guess": "1-2 (B)",
+          "answer": "1-3 (B)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-23|Portugal|Uzbekistan",
+          "date": "2026-06-23",
+          "group": "Group K",
+          "match": "Portugal – Uzbekistan",
+          "guess": "3-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-23|Colombia|Congo DR",
+          "date": "2026-06-23",
+          "group": "Group K",
+          "match": "Colombia – Congo DR",
+          "guess": "1-1 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-27|Colombia|Portugal",
+          "date": "2026-06-27",
+          "group": "Group K",
+          "match": "Colombia – Portugal",
+          "guess": "0-1 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-27|Congo DR|Uzbekistan",
+          "date": "2026-06-27",
+          "group": "Group K",
+          "match": "Congo DR – Uzbekistan",
+          "guess": "2-1 (H)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-17|Ghana|Panama",
+          "date": "2026-06-17",
+          "group": "Group L",
+          "match": "Ghana – Panama",
+          "guess": "0-0 (U)",
+          "answer": "1-0 (H)",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
+        },
+        {
+          "id": "2026-06-17|England|Croatia",
+          "date": "2026-06-17",
+          "group": "Group L",
+          "match": "England – Croatia",
+          "guess": "2-1 (H)",
+          "answer": "4-2 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
+        },
+        {
+          "id": "2026-06-23|England|Ghana",
+          "date": "2026-06-23",
+          "group": "Group L",
+          "match": "England – Ghana",
+          "guess": "2-3 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-23|Panama|Croatia",
+          "date": "2026-06-23",
+          "group": "Group L",
+          "match": "Panama – Croatia",
+          "guess": "1-1 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-27|Panama|England",
+          "date": "2026-06-27",
+          "group": "Group L",
+          "match": "Panama – England",
+          "guess": "0-1 (B)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "id": "2026-06-27|Croatia|Ghana",
+          "date": "2026-06-27",
+          "group": "Group L",
+          "match": "Croatia – Ghana",
+          "guess": "0-0 (U)",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        }
+      ],
+      "knockout": [
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 1,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 2,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 3,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 4,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 5,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 6,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 7,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 8,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 9,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 10,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 11,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 12,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 13,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 14,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 15,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 16,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 17,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 18,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 19,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 20,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 21,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 22,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 23,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 24,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 25,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 26,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 27,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 28,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 29,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 30,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 31,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r32",
+          "roundLabel": "32-delsfinale / Round of 32-lag (10p for kvart rette lag)",
+          "slot": 32,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 1,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 2,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 3,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 4,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 5,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 6,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 7,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 8,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 9,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 10,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 11,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 12,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 13,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 14,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 15,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "r16",
+          "roundLabel": "Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag)",
+          "slot": 16,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 1,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 2,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 3,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 4,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 5,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 6,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 7,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "qf",
+          "roundLabel": "Kvartfinalistar (20p for kvart rette lag)",
+          "slot": 8,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "sf",
+          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
+          "slot": 1,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "sf",
+          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
+          "slot": 2,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "sf",
+          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
+          "slot": 3,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "sf",
+          "roundLabel": "Semifinalistar (25p for kvart rette lag)",
+          "slot": 4,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "finalists",
+          "roundLabel": "Finalistar (40p for kvart rette lag)",
+          "slot": 1,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "finalists",
+          "roundLabel": "Finalistar (40p for kvart rette lag)",
+          "slot": 2,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        },
+        {
+          "round": "winner",
+          "roundLabel": "Vinnar (50p for kvart rette lag)",
+          "slot": 1,
+          "guess": "—",
+          "answer": "—",
+          "points": 0,
+          "status": "ventar",
+          "utfall": "Ventar på fasit",
+          "correct": null
+        }
+      ],
+      "bonus": [
+        {
+          "id": "top_scorer",
+          "question": "TOPPSCORAR",
+          "guess": "Lamine Yamal",
+          "answer": "Lionel Messi",
+          "points": 0,
+          "status": "feil",
+          "utfall": "0 mål × 8p",
+          "correct": false
+        },
+        {
+          "id": "top_scoring_team",
+          "question": "Mestskorande lag",
+          "guess": "Spain",
+          "answer": "Germany",
+          "points": 0,
+          "status": "feil",
+          "utfall": "0 mål × 5p",
+          "correct": false
+        },
+        {
+          "id": "worst_defense",
+          "question": "Mest innslupne mål / verste forsvar",
+          "guess": "Haiti",
+          "answer": "Curaçao",
+          "points": 5,
+          "status": "rett",
+          "utfall": "1 innslupne × 5p",
+          "correct": true
+        },
+        {
+          "id": "first_red_card",
+          "question": "Kva spelar får det første raude kortet i VM?",
+          "guess": "Mbappe",
+          "answer": "Sphephelo Sithole",
+          "points": 0,
+          "status": "feil",
+          "utfall": "Feil spelar",
+          "correct": false
+        },
+        {
+          "id": "most_red_cards",
+          "question": "Kva lag får flest raude kort?",
+          "guess": "France",
+          "answer": "South Africa",
+          "points": 0,
+          "status": "feil",
+          "utfall": "0 kort × 10p",
+          "correct": false
+        }
+      ]
+    },
+    {
       "name": "Kjartan",
       "scores": {
-        "group": 40,
+        "group": 50,
         "knockout": 0,
-        "bonus": 21,
-        "total": 61,
-        "groupPlayed": 20,
+        "bonus": 26,
+        "total": 76,
+        "groupPlayed": 24,
         "groupTotal": 72
       },
       "groupMatches": [
@@ -20030,11 +19982,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Portugal – Congo DR",
           "guess": "3-0 (H)",
-          "answer": "—",
+          "answer": "1-1 (U)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-17|Uzbekistan|Colombia",
@@ -20042,11 +19994,11 @@ window.APP_DATA = {
           "group": "Group K",
           "match": "Uzbekistan – Colombia",
           "guess": "1-4 (B)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "1-3 (B)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-23|Portugal|Uzbekistan",
@@ -20102,11 +20054,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "Ghana – Panama",
           "guess": "2-0 (H)",
-          "answer": "—",
-          "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "answer": "1-0 (H)",
+          "points": 5,
+          "status": "delvis",
+          "utfall": "Rett utfall",
+          "correct": true
         },
         {
           "id": "2026-06-17|England|Croatia",
@@ -20114,11 +20066,11 @@ window.APP_DATA = {
           "group": "Group L",
           "match": "England – Croatia",
           "guess": "1-1 (U)",
-          "answer": "—",
+          "answer": "4-2 (H)",
           "points": 0,
-          "status": "ventar",
-          "utfall": "Ventar på fasit",
-          "correct": null
+          "status": "feil",
+          "utfall": "Feil",
+          "correct": false
         },
         {
           "id": "2026-06-23|England|Ghana",
@@ -20880,10 +20832,10 @@ window.APP_DATA = {
           "question": "Mestskorande lag",
           "guess": "Portugal",
           "answer": "Germany",
-          "points": 0,
-          "status": "feil",
-          "utfall": "0 mål × 5p",
-          "correct": false
+          "points": 5,
+          "status": "rett",
+          "utfall": "1 mål × 5p",
+          "correct": true
         },
         {
           "id": "worst_defense",

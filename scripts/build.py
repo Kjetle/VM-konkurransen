@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import copy
 import csv
 import json
 import re
@@ -591,22 +592,145 @@ def discover_participants() -> list[tuple[str, Path]]:
     return participants
 
 
+def stats_from_played_matches(matches: list[dict]) -> dict:
+    scored: dict[str, int] = {}
+    conceded: dict[str, int] = {}
+    for match in matches:
+        if match["h"] is None or match["b"] is None:
+            continue
+        home = normalize_key(canonical_team(match["home"]))
+        away = normalize_key(canonical_team(match["away"]))
+        if not home or not away:
+            continue
+        scored[home] = scored.get(home, 0) + match["h"]
+        scored[away] = scored.get(away, 0) + match["b"]
+        conceded[home] = conceded.get(home, 0) + match["b"]
+        conceded[away] = conceded.get(away, 0) + match["h"]
+    return {
+        "player_goals": {},
+        "team_goals_scored": scored,
+        "team_goals_conceded": conceded,
+        "team_red_cards": {},
+        "first_red_card_player": "",
+        "most_red_cards_team": "",
+        "most_red_cards_count": None,
+    }
+
+
+def fasit_for_match_day(fasit: dict, cutoff_date: str, *, full_stats: bool) -> dict:
+    filtered = copy.deepcopy(fasit)
+    played: list[dict] = []
+    for match in filtered["group_matches"]:
+        if match["date"] > cutoff_date:
+            match["h"] = None
+            match["b"] = None
+            match["sign"] = None
+        elif match["h"] is not None and match["b"] is not None:
+            played.append(match)
+    if full_stats:
+        return filtered
+    filtered["stats"] = stats_from_played_matches(played)
+    return filtered
+
+
+def get_match_days(fasit: dict) -> list[str]:
+    days: set[str] = set()
+    for match in fasit["group_matches"]:
+        if match["h"] is not None and match["b"] is not None:
+            days.add(match["date"])
+    return sorted(days)
+
+
+def max_points_streak(group_matches: list[dict]) -> int:
+    played = [m for m in group_matches if m["answer"] != "—"]
+    best = 0
+    current = 0
+    for match in played:
+        if match["points"] > 0:
+            current += 1
+            best = max(best, current)
+        else:
+            current = 0
+    return best
+
+
+def participant_history_stats(participant: dict, last_match_day: str | None) -> dict:
+    exact = sum(1 for m in participant["groupMatches"] if m["status"] == "rett")
+    outcomes = sum(
+        1 for m in participant["groupMatches"] if m["status"] in ("delvis", "rett")
+    )
+    streak = max_points_streak(participant["groupMatches"])
+    recent_points = []
+    if last_match_day:
+        for match in participant["groupMatches"]:
+            if match["date"] == last_match_day and match["points"] > 0:
+                recent_points.append(
+                    {
+                        "match": match["match"],
+                        "points": match["points"],
+                        "label": match["utfall"],
+                    }
+                )
+    return {
+        "exact": exact,
+        "outcomes": outcomes,
+        "streak": streak,
+        "recentPoints": recent_points,
+    }
+
+
+def build_history(fasit: dict, participant_paths: list[tuple[str, Path]]) -> dict:
+    match_days = get_match_days(fasit)
+    if not match_days:
+        return {"matchDays": [], "participants": {}}
+
+    history: dict = {"matchDays": match_days, "participants": {}}
+    for name, _ in participant_paths:
+        history["participants"][name] = {"totals": [], "ranks": [], "dayPoints": []}
+
+    for day in match_days:
+        is_last = day == match_days[-1]
+        day_fasit = fasit if is_last else fasit_for_match_day(fasit, day, full_stats=False)
+        day_participants = [
+            build_participant(name, path, day_fasit) for name, path in participant_paths
+        ]
+        day_participants.sort(key=lambda item: (-item["scores"]["total"], item["name"].lower()))
+
+        for rank, participant in enumerate(day_participants, start=1):
+            name = participant["name"]
+            total = participant["scores"]["total"]
+            prev_total = history["participants"][name]["totals"][-1] if history["participants"][name]["totals"] else 0
+            history["participants"][name]["totals"].append(total)
+            history["participants"][name]["ranks"].append(rank)
+            history["participants"][name]["dayPoints"].append(total - prev_total)
+
+    last_day = match_days[-1]
+    for name, path in participant_paths:
+        participant = build_participant(name, path, fasit)
+        history["participants"][name].update(participant_history_stats(participant, last_day))
+
+    return history
+
+
 def main() -> None:
     if not FASIT_PATH.exists():
         raise SystemExit(f"Fasit-fil manglar: {FASIT_PATH}")
 
     fasit = parse_competition_csv(FASIT_PATH)
+    participant_paths = discover_participants()
     participants = []
-    for name, path in discover_participants():
+    for name, path in participant_paths:
         participants.append(build_participant(name, path, fasit))
 
     participants.sort(key=lambda item: (-item["scores"]["total"], item["name"].lower()))
+    history = build_history(fasit, participant_paths)
 
     payload = {
         "meta": {
             "title": "VM 2026 – tippekonkurranse",
             "updated": datetime.now(timezone.utc).isoformat(),
             "scoring": SCORING,
+            "history": history,
         },
         "fasit": build_fasit_view(fasit),
         "participants": participants,

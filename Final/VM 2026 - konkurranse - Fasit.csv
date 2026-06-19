@@ -6,14 +6,14 @@
 Dato,Gruppe,Heimelag,Bortelag,Stadion,Tips H,Tips B,Tips teikn
 2026-06-11,Group A,Mexico,South Africa,Mexico City Stadium,2,0,H
 2026-06-11,Group A,Korea Republic,Czechia,Estadio Guadalajara,2,1,H
-2026-06-18,Group A,Czechia,South Africa,Atlanta Stadium,,,
-2026-06-18,Group A,Mexico,Korea Republic,Estadio Guadalajara,,,
+2026-06-18,Group A,Czechia,South Africa,Atlanta Stadium,1,1,U
+2026-06-18,Group A,Mexico,Korea Republic,Estadio Guadalajara,1,0,H
 2026-06-24,Group A,Czechia,Mexico,Mexico City Stadium,,,
 2026-06-24,Group A,South Africa,Korea Republic,Estadio Monterrey,,,
 2026-06-12,Group B,Canada,Bosnia and Herzegovina,Toronto Stadium,1,1,U
 2026-06-13,Group B,Qatar,Switzerland,San Francisco Bay Area Stadium,1,1,U
-2026-06-18,Group B,Switzerland,Bosnia and Herzegovina,Los Angeles Stadium,,,
-2026-06-18,Group B,Canada,Qatar,BC Place Vancouver,,,
+2026-06-18,Group B,Switzerland,Bosnia and Herzegovina,Los Angeles Stadium,4,1,H
+2026-06-18,Group B,Canada,Qatar,BC Place Vancouver,6,0,H
 2026-06-24,Group B,Switzerland,Canada,BC Place Vancouver,,,
 2026-06-24,Group B,Bosnia and Herzegovina,Qatar,Seattle Stadium,,,
 2026-06-13,Group C,Haiti,Scotland,Boston Stadium,0,1,B
@@ -176,7 +176,7 @@ player_goals,Hwang In-beom,1
 player_goals,Oh Hyeon-gyu,1
 player_goals,Ladislav Krejci,1
 player_goals,Jovo Lukic,1
-player_goals,Cyle Larin,1
+player_goals,Cyle Larin,2
 player_goals,Gio Reyna,1
 player_goals,Mauricio,1
 player_goals,Breel Embolo,1
@@ -225,6 +225,15 @@ player_goals,Daniel Muñoz,1
 player_goals,Luis Díaz,1
 player_goals,Jaminton Campaz,1
 player_goals,Abbosbek Fayzullaev,1
+player_goals,Luis Romo,1
+player_goals,Jonathan David,3
+player_goals,Johan Manzambi,2
+player_goals,Lukas Sadilek,1
+player_goals,Teboho Mokoena,1
+player_goals,Granit Xhaka,1
+player_goals,Ruben Vargas,1
+player_goals,Ermin Mahmic,1
+player_goals,Nathan Saliba,1
 team_goals_scored,Germany,7
 team_goals_scored,Norway,4
 team_goals_scored,France,3
@@ -232,19 +241,19 @@ team_goals_scored,Argentina,3
 team_goals_scored,Austria,3
 team_goals_scored,Sweden,5
 team_goals_scored,USA,4
-team_goals_scored,Mexico,2
+team_goals_scored,Mexico,3
 team_goals_scored,Korea Republic,2
 team_goals_scored,Australia,2
 team_goals_scored,Netherlands,2
 team_goals_scored,Japan,2
 team_goals_scored,IR Iran,2
 team_goals_scored,New Zealand,2
-team_goals_scored,Canada,1
-team_goals_scored,Bosnia and Herzegovina,1
-team_goals_scored,Czechia,1
+team_goals_scored,Canada,7
+team_goals_scored,Bosnia and Herzegovina,2
+team_goals_scored,Czechia,2
 team_goals_scored,Paraguay,1
 team_goals_scored,Qatar,1
-team_goals_scored,Switzerland,1
+team_goals_scored,Switzerland,5
 team_goals_scored,Brazil,1
 team_goals_scored,Morocco,1
 team_goals_scored,Scotland,1
@@ -265,6 +274,7 @@ team_goals_scored,Portugal,1
 team_goals_scored,Congo DR,1
 team_goals_scored,Ghana,1
 team_goals_scored,Uzbekistan,1
+team_goals_scored,South Africa,1
 team_goals_conceded,Curaçao,7
 team_goals_conceded,Iraq,4
 team_goals_conceded,Senegal,3
@@ -272,8 +282,8 @@ team_goals_conceded,Algeria,3
 team_goals_conceded,Jordan,3
 team_goals_conceded,Paraguay,4
 team_goals_conceded,Tunisia,5
-team_goals_conceded,South Africa,2
-team_goals_conceded,Czechia,2
+team_goals_conceded,South Africa,3
+team_goals_conceded,Czechia,3
 team_goals_conceded,Türkiye,2
 team_goals_conceded,Netherlands,2
 team_goals_conceded,Japan,2
@@ -281,10 +291,10 @@ team_goals_conceded,New Zealand,2
 team_goals_conceded,IR Iran,2
 team_goals_conceded,Haiti,1
 team_goals_conceded,Mexico,1
-team_goals_conceded,Korea Republic,1
+team_goals_conceded,Korea Republic,2
 team_goals_conceded,Canada,1
-team_goals_conceded,Bosnia and Herzegovina,1
-team_goals_conceded,Qatar,1
+team_goals_conceded,Bosnia and Herzegovina,5
+team_goals_conceded,Qatar,7
 team_goals_conceded,Switzerland,1
 team_goals_conceded,Brazil,1
 team_goals_conceded,Morocco,1
@@ -308,5 +318,6 @@ team_goals_conceded,Colombia,1
 team_goals_conceded,Uzbekistan,3
 team_red_cards,South Africa,2
 team_red_cards,Mexico,1
+team_red_cards,Qatar,2
 first_red_card,Sphephelo Sithole,
 most_red_cards,South Africa,2

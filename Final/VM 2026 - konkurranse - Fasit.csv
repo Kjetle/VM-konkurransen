@@ -18,26 +18,26 @@ Dato,Gruppe,Heimelag,Bortelag,Stadion,Tips H,Tips B,Tips teikn
 2026-06-24,Group B,Bosnia and Herzegovina,Qatar,Seattle Stadium,,,
 2026-06-13,Group C,Haiti,Scotland,Boston Stadium,0,1,B
 2026-06-13,Group C,Brazil,Morocco,New York New Jersey Stadium,1,1,U
-2026-06-19,Group C,Brazil,Haiti,Philadelphia Stadium,,,
-2026-06-19,Group C,Scotland,Morocco,Boston Stadium,,,
+2026-06-19,Group C,Brazil,Haiti,Philadelphia Stadium,3,0,H
+2026-06-19,Group C,Scotland,Morocco,Boston Stadium,0,1,B
 2026-06-24,Group C,Scotland,Brazil,Miami Stadium,,,
 2026-06-24,Group C,Morocco,Haiti,Atlanta Stadium,,,
 2026-06-12,Group D,USA,Paraguay,Los Angeles Stadium,4,1,H
 2026-06-13,Group D,Australia,Türkiye,BC Place Vancouver,2,0,H
-2026-06-19,Group D,Türkiye,Paraguay,San Francisco Bay Area Stadium,,,
-2026-06-19,Group D,USA,Australia,Seattle Stadium,,,
+2026-06-19,Group D,Türkiye,Paraguay,San Francisco Bay Area Stadium,0,1,B
+2026-06-19,Group D,USA,Australia,Seattle Stadium,2,0,H
 2026-06-25,Group D,Türkiye,USA,Los Angeles Stadium,,,
 2026-06-25,Group D,Paraguay,Australia,San Francisco Bay Area Stadium,,,
 2026-06-14,Group E,Côte d'Ivoire,Ecuador,Philadelphia Stadium,1,0,H
 2026-06-14,Group E,Germany,Curaçao,Houston Stadium,7,1,H
-2026-06-20,Group E,Germany,Côte d'Ivoire,Toronto Stadium,,,
-2026-06-20,Group E,Ecuador,Curaçao,Kansas City Stadium,,,
+2026-06-20,Group E,Germany,Côte d'Ivoire,Toronto Stadium,2,1,H
+2026-06-20,Group E,Ecuador,Curaçao,Kansas City Stadium,0,0,U
 2026-06-25,Group E,Curaçao,Côte d'Ivoire,Philadelphia Stadium,,,
 2026-06-25,Group E,Ecuador,Germany,New York New Jersey Stadium,,,
 2026-06-14,Group F,Netherlands,Japan,Dallas Stadium,2,2,U
 2026-06-14,Group F,Sweden,Tunisia,Estadio Monterrey,5,1,H
-2026-06-20,Group F,Netherlands,Sweden,Houston Stadium,,,
-2026-06-20,Group F,Tunisia,Japan,Estadio Monterrey,,,
+2026-06-20,Group F,Netherlands,Sweden,Houston Stadium,5,1,H
+2026-06-20,Group F,Tunisia,Japan,Estadio Monterrey,0,4,B
 2026-06-25,Group F,Japan,Sweden,Dallas Stadium,,,
 2026-06-25,Group F,Tunisia,Netherlands,Kansas City Stadium,,,
 2026-06-15,Group G,IR Iran,New Zealand,Los Angeles Stadium,2,2,U
@@ -181,8 +181,8 @@ player_goals,Gio Reyna,1
 player_goals,Mauricio,1
 player_goals,Breel Embolo,1
 player_goals,Boualem Khoukhi,1
-player_goals,Ismael Saibari,1
-player_goals,Vinicius Junior,1
+player_goals,Ismael Saibari,2
+player_goals,Vinicius Junior,2
 player_goals,John McGinn,1
 player_goals,Nestory Irankunda,1
 player_goals,Connor Metcalfe,1
@@ -190,12 +190,12 @@ player_goals,Felix Nmecha,1
 player_goals,Nico Schlotterbeck,1
 player_goals,Jamal Musiala,1
 player_goals,Nathaniel Brown,1
-player_goals,Deniz Undav,1
+player_goals,Deniz Undav,2
 player_goals,Livano Comenencia,1
 player_goals,Virgil van Dijk,1
-player_goals,Crysencio Summerville,1
+player_goals,Crysencio Summerville,2
 player_goals,Keito Nakamura,1
-player_goals,Daichi Kamada,1
+player_goals,Daichi Kamada,2
 player_goals,Amad Diallo,1
 player_goals,Alexander Isak,1
 player_goals,Viktor Gyokeres,1
@@ -234,31 +234,40 @@ player_goals,Granit Xhaka,1
 player_goals,Ruben Vargas,1
 player_goals,Ermin Mahmic,1
 player_goals,Nathan Saliba,1
-team_goals_scored,Germany,7
+player_goals,Matheus Cunha,2
+player_goals,Alex Freeman,1
+player_goals,Matias Galarza,1
+player_goals,Brian Brobbey,2
+player_goals,Cody Gakpo,2
+player_goals,Anthony Elanga,1
+player_goals,Franck Kessie,1
+player_goals,Ayase Ueda,2
+player_goals,Junya Ito,1
+team_goals_scored,Germany,9
 team_goals_scored,Norway,4
 team_goals_scored,France,3
 team_goals_scored,Argentina,3
 team_goals_scored,Austria,3
-team_goals_scored,Sweden,5
-team_goals_scored,USA,4
+team_goals_scored,Sweden,6
+team_goals_scored,USA,6
 team_goals_scored,Mexico,3
 team_goals_scored,Korea Republic,2
 team_goals_scored,Australia,2
-team_goals_scored,Netherlands,2
-team_goals_scored,Japan,2
+team_goals_scored,Netherlands,7
+team_goals_scored,Japan,6
 team_goals_scored,IR Iran,2
 team_goals_scored,New Zealand,2
 team_goals_scored,Canada,7
 team_goals_scored,Bosnia and Herzegovina,2
 team_goals_scored,Czechia,2
-team_goals_scored,Paraguay,1
+team_goals_scored,Paraguay,2
 team_goals_scored,Qatar,1
 team_goals_scored,Switzerland,5
-team_goals_scored,Brazil,1
-team_goals_scored,Morocco,1
+team_goals_scored,Brazil,4
+team_goals_scored,Morocco,2
 team_goals_scored,Scotland,1
 team_goals_scored,Curaçao,1
-team_goals_scored,Côte d'Ivoire,1
+team_goals_scored,Côte d'Ivoire,2
 team_goals_scored,Tunisia,1
 team_goals_scored,Belgium,1
 team_goals_scored,Egypt,1
@@ -281,15 +290,15 @@ team_goals_conceded,Senegal,3
 team_goals_conceded,Algeria,3
 team_goals_conceded,Jordan,3
 team_goals_conceded,Paraguay,4
-team_goals_conceded,Tunisia,5
+team_goals_conceded,Tunisia,9
 team_goals_conceded,South Africa,3
 team_goals_conceded,Czechia,3
-team_goals_conceded,Türkiye,2
-team_goals_conceded,Netherlands,2
+team_goals_conceded,Türkiye,3
+team_goals_conceded,Netherlands,3
 team_goals_conceded,Japan,2
 team_goals_conceded,New Zealand,2
 team_goals_conceded,IR Iran,2
-team_goals_conceded,Haiti,1
+team_goals_conceded,Haiti,4
 team_goals_conceded,Mexico,1
 team_goals_conceded,Korea Republic,2
 team_goals_conceded,Canada,1
@@ -298,9 +307,11 @@ team_goals_conceded,Qatar,7
 team_goals_conceded,Switzerland,1
 team_goals_conceded,Brazil,1
 team_goals_conceded,Morocco,1
-team_goals_conceded,Scotland,1
-team_goals_conceded,Australia,1
-team_goals_conceded,Germany,1
+team_goals_conceded,Scotland,2
+team_goals_conceded,Australia,3
+team_goals_conceded,Germany,2
+team_goals_conceded,Côte d'Ivoire,2
+team_goals_conceded,Sweden,6
 team_goals_conceded,Ecuador,1
 team_goals_conceded,Belgium,1
 team_goals_conceded,Egypt,1

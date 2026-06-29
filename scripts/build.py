@@ -139,6 +139,52 @@ def teams_match(guess: str, answer: str) -> bool:
     return g == a or g in a or a in g
 
 
+def knockout_answer_teams(fasit_teams: list[str]) -> list[str]:
+    return [team for team in fasit_teams if team and team.strip()]
+
+
+def find_knockout_match(guess: str, answer_teams: list[str]) -> str:
+    for team in answer_teams:
+        if teams_match(guess, team):
+            return team
+    return ""
+
+
+def score_knockout_guess(guess: str, answer_teams: list[str], points: int) -> dict:
+    if not answer_teams:
+        return {
+            "points": 0,
+            "status": "ventar",
+            "utfall": "Ventar på fasit",
+            "correct": None,
+            "matched": "",
+        }
+    if not guess or not guess.strip():
+        return {
+            "points": 0,
+            "status": "feil",
+            "utfall": "Feil",
+            "correct": False,
+            "matched": "",
+        }
+    matched = find_knockout_match(guess, answer_teams)
+    if matched:
+        return {
+            "points": points,
+            "status": "rett",
+            "utfall": "Rett lag",
+            "correct": True,
+            "matched": matched,
+        }
+    return {
+        "points": 0,
+        "status": "feil",
+        "utfall": "Feil",
+        "correct": False,
+        "matched": "",
+    }
+
+
 def players_match(guess: str, answer: str) -> bool:
     if not guess or not answer:
         return False
@@ -472,36 +518,22 @@ def build_participant(name: str, path: Path, fasit: dict) -> dict:
         fasit_round = fasit["knockout"].get(slug, {"teams": [""] * slots, "label": slug})
         guess_round = data["knockout"].get(slug, {"teams": [""] * slots, "label": slug})
         label = fasit_round.get("label", slug)
+        answer_teams = knockout_answer_teams(fasit_round["teams"])
         for idx in range(slots):
             guess_team = guess_round["teams"][idx] if idx < len(guess_round["teams"]) else ""
-            answer_team = fasit_round["teams"][idx] if idx < len(fasit_round["teams"]) else ""
-            if not answer_team:
-                status = "ventar"
-                correct = None
-                pts = 0
-                utfall = "Ventar på fasit"
-            elif teams_match(guess_team, answer_team):
-                status = "rett"
-                correct = True
-                pts = points
-                utfall = "Rett lag"
-            else:
-                status = "feil"
-                correct = False
-                pts = 0
-                utfall = "Feil"
-            knockout_points += pts
+            scored = score_knockout_guess(guess_team, answer_teams, points)
+            knockout_points += scored["points"]
             knockout_rows.append(
                 {
                     "round": slug,
                     "roundLabel": label,
                     "slot": idx + 1,
                     "guess": guess_team or "—",
-                    "answer": answer_team or "—",
-                    "points": pts,
-                    "status": status,
-                    "utfall": utfall,
-                    "correct": correct,
+                    "answer": scored["matched"] or "—",
+                    "points": scored["points"],
+                    "status": scored["status"],
+                    "utfall": scored["utfall"],
+                    "correct": scored["correct"],
                 }
             )
 

@@ -587,7 +587,7 @@ function participantPanel(p) {
                 <tr>
                   <th class="num">Plass</th>
                   <th>Tips</th>
-                  <th>Fasit</th>
+                  <th>Kvalifisert</th>
                   <th>Utfall</th>
                   <th class="num">Poeng</th>
                 </tr>

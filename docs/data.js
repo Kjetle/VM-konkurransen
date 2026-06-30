@@ -1,7 +1,7 @@
 window.APP_DATA = {
   "meta": {
     "title": "VM 2026 – tippekonkurranse",
-    "updated": "2026-06-30T06:02:12.350900+00:00",
+    "updated": "2026-06-30T06:07:04.800149+00:00",
     "scoring": {
       "group_outcome": 5,
       "group_exact": 25,

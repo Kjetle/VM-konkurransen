@@ -113,10 +113,10 @@ Dato,Gruppe,Heimelag,Bortelag,Stadion,Tips H,Tips B,Tips teikn
 32,Senegal,,,,,,
 ,,,,,,,
 Åttedelsfinalistar / Round of 16-lag (15p for kvart rette lag),,,,,,,
-1,,,,,,,
-2,,,,,,,
-3,,,,,,,
-4,,,,,,,
+1,Canada,,,,,,
+2,Brazil,,,,,,
+3,Paraguay,,,,,,
+4,Morocco,,,,,,
 5,,,,,,,
 6,,,,,,,
 7,,,,,,,
@@ -177,7 +177,7 @@ player_goals,Yoane Wissa,3
 player_goals,Anthony Elanga,2
 player_goals,Ayase Ueda,2
 player_goals,Brian Brobbey,2
-player_goals,Cody Gakpo,2
+player_goals,Cody Gakpo,3
 player_goals,Cristiano Ronaldo,2
 player_goals,Crysencio Summerville,2
 player_goals,Cyle Larin,2
@@ -190,7 +190,7 @@ player_goals,Ismaïla Sarr,2
 player_goals,Johan Manzambi,2
 player_goals,Jude Bellingham,2
 player_goals,Julian Quinones,2
-player_goals,Kai Havertz,2
+player_goals,Kai Havertz,3
 player_goals,Leandro Trossard,2
 player_goals,Marko Arnautović,2
 player_goals,Maxi Araujo,2
@@ -220,6 +220,7 @@ player_goals,Barış Alper Yılmaz,1
 player_goals,Bradley Barcola,1
 player_goals,Breel Embolo,1
 player_goals,Caleb Yirenkyi,1
+player_goals,Casemiro,1
 player_goals,Connor Metcalfe,1
 player_goals,Daizen Maeda,1
 player_goals,Derrick Luckassen,1
@@ -232,6 +233,7 @@ player_goals,Fiston Mayele,1
 player_goals,Franck Kessie,1
 player_goals,Gessime Yassine,1
 player_goals,Gio Reyna,1
+player_goals,Gabriel Martinelli,1
 player_goals,Giovani Lo Celso,1
 player_goals,Gonzalo Plata,1
 player_goals,Granit Xhaka,1
@@ -242,6 +244,7 @@ player_goals,Helio Varela,1
 player_goals,Hwang In-beom,1
 player_goals,Ibrahim Mbaye,1
 player_goals,Iliman Ndiaye,1
+player_goals,Issa Diop,1
 player_goals,Jamal Musiala,1
 player_goals,Jaminton Campaz,1
 player_goals,Jan Paul van Hecke,1
@@ -249,7 +252,9 @@ player_goals,John McGinn,1
 player_goals,Jovo Lukic,1
 player_goals,João Neves,1
 player_goals,Junya Ito,1
+player_goals,Julio Enciso,1
 player_goals,Kaan Ayhan,1
+player_goals,Kaishu Sano,1
 player_goals,Keito Nakamura,1
 player_goals,Kerim Alajbegović,1
 player_goals,Kevin De Bruyne,1
@@ -305,23 +310,23 @@ player_goals,Viktor Gyokeres,1
 player_goals,Virgil van Dijk,1
 player_goals,Wilson Isidor,1
 player_goals,Álex Baena,1
+team_goals_scored,Germany,11
+team_goals_scored,Netherlands,11
 team_goals_scored,France,10
-team_goals_scored,Germany,10
-team_goals_scored,Netherlands,10
 team_goals_scored,Argentina,8
-team_goals_scored,Canada,8
+team_goals_scored,Canada,9
 team_goals_scored,Norway,8
 team_goals_scored,Senegal,8
 team_goals_scored,USA,8
-team_goals_scored,Brazil,7
-team_goals_scored,Japan,7
+team_goals_scored,Brazil,9
+team_goals_scored,Japan,8
 team_goals_scored,Sweden,7
 team_goals_scored,Switzerland,7
 team_goals_scored,Austria,6
 team_goals_scored,Belgium,6
 team_goals_scored,England,6
 team_goals_scored,Mexico,6
-team_goals_scored,Morocco,6
+team_goals_scored,Morocco,7
 team_goals_scored,Portugal,6
 team_goals_scored,Algeria,5
 team_goals_scored,Bosnia and Herzegovina,5
@@ -343,7 +348,7 @@ team_goals_scored,Ecuador,2
 team_goals_scored,Ghana,2
 team_goals_scored,Haiti,2
 team_goals_scored,Korea Republic,2
-team_goals_scored,Paraguay,2
+team_goals_scored,Paraguay,3
 team_goals_scored,Qatar,2
 team_goals_scored,South Africa,2
 team_goals_scored,Tunisia,2
@@ -371,8 +376,8 @@ team_goals_conceded,Senegal,6
 team_goals_conceded,Croatia,5
 team_goals_conceded,Saudi Arabia,5
 team_goals_conceded,Türkiye,5
-team_goals_conceded,Germany,4
-team_goals_conceded,Netherlands,4
+team_goals_conceded,Germany,5
+team_goals_conceded,Netherlands,5
 team_goals_conceded,Panama,4
 team_goals_conceded,Paraguay,4
 team_goals_conceded,Scotland,4
@@ -382,10 +387,10 @@ team_goals_conceded,Canada,3
 team_goals_conceded,Congo DR,3
 team_goals_conceded,Egypt,3
 team_goals_conceded,IR Iran,3
-team_goals_conceded,Japan,3
+team_goals_conceded,Japan,4
 team_goals_conceded,Korea Republic,3
 team_goals_conceded,Morocco,3
-team_goals_conceded,South Africa,3
+team_goals_conceded,South Africa,4
 team_goals_conceded,Switzerland,3
 team_goals_conceded,Australia,2
 team_goals_conceded,Belgium,2
